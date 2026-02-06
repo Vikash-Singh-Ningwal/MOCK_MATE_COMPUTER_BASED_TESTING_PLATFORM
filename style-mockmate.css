@@ -1,0 +1,241 @@
+:root {
+    --primary: #0d47a1;
+    --secondary: #1565c0;
+    --accent: #ffb300;
+    --success: #2e7d32;
+    --danger: #c62828;
+    --bg: #f4f6fb;
+    --card: #ffffff;
+    --text-dark: #1f2937;
+}
+
+/* BODY */
+body {
+    background: var(--bg);
+    font-family: "Segoe UI", system-ui, sans-serif;
+    color: var(--text-dark);
+}
+
+/* HEADER */
+.navbar {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+}
+
+.header-bottom {
+    background: #0b3c91;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+}
+
+/* USER ICON */
+.user-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+/* CARDS */
+.card {
+    background: var(--card);
+    border-radius: 18px;
+    border: none;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+/* QUESTION ANIMATION */
+.question-animate {
+    animation: slideFade 0.4s ease;
+}
+
+@keyframes slideFade {
+    from { opacity: 0; transform: translateX(20px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
+/* OPTIONS */
+.form-check-label {
+    display: block;
+    padding: 12px 15px;
+    border-radius: 10px;
+    border: 1px solid #dee2e6;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.form-check-input {
+    display: none;
+}
+
+.form-check-input:checked + .form-check-label {
+    background: #eef4ff;
+    border-left: 5px solid var(--primary);
+    font-weight: 600;
+}
+
+/* BUTTONS */
+.btn {
+    border-radius: 10px;
+    transition: all 0.2s;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.btn-warning {
+    background: var(--accent);
+    border: none;
+    color: #000;
+}
+
+/* PALETTE */
+.q-box {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    animation: popIn 0.3s ease;
+}
+
+@keyframes popIn {
+    from { transform: scale(0.6); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+
+.not-visited { background: #e5e7eb; }
+.not-answered { background: var(--danger); color: #fff; }
+.answered { background: var(--success); color: #fff; }
+.marked-review { background: #6a1b9a; color: #fff; }
+.answered-marked-review { background: #0288d1; color: #fff; }
+
+/* LEGEND */
+.legend-box {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    margin-right: 6px;
+    border-radius: 4px;
+}
+
+/* FOOTER */
+.exam-footer {
+    background: linear-gradient(135deg, #0b3c91, #062e6f);
+    color: #e5e7eb;
+    padding: 30px 20px 15px;
+}
+
+.footer-title {
+    color: #ffcc80;
+    font-weight: 600;
+}
+
+.footer-text {
+    color: #d1d5db;
+    line-height: 1.6;
+}
+
+.footer-list {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-list li {
+    padding-left: 14px;
+    margin-bottom: 6px;
+    position: relative;
+}
+
+.footer-list li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #ffcc80;
+}
+
+.footer-divider {
+    border-color: 
+    +rgba(255,255,255,0.2);
+}
+
+.footer-bottom {
+    font-size: 0.85rem;
+    color: #cbd5e1;
+}
+
+.status-live {
+    color: #4ade80;
+    font-weight: 600;
+}
+/* ================= RESULT PALETTE ================= */
+
+/* Container of result palette */
+#result-palette {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+    gap: 8px;
+
+    align-content: flex-start;
+    justify-items: center;
+}
+
+/* Base result box */
+.result-box {
+    width: 40px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: bold;
+    font-size: 0.85rem;
+
+    border-radius: 6px;
+    cursor: pointer;
+
+    border: 2px solid transparent;
+    transition: all 0.25s ease;
+
+    animation: popIn 0.3s ease;
+}
+
+/* Correct */
+.result-correct {
+    background-color: #1b5e20;
+    color: #ffffff;
+}
+
+/* Wrong */
+.result-wrong {
+    background-color: #b71c1c;
+    color: #ffffff;
+}
+
+/* Not answered */
+.result-not-answered {
+    background-color: #e5e7eb;
+    color: #000000;
+}
+
+/* Active review question */
+.result-active {
+    border: 2px solid #2962ff;
+    box-shadow: 0 0 0 3px rgba(41, 98, 255, 0.35);
+    transform: scale(1.1);
+}
+
+/* Hover (non-active only) */
+.result-box:hover:not(.result-active) {
+    transform: scale(1.08);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,1711 @@
+[
+  {
+    "question_hi": "लड़कियों की एक पंक्ति में रमा, राधा के बाएँ से 10वीं है एवं राधा दाएँ छोर से 17वें स्थान पर है। शीला, रंमा के दाएँ से चौथी है। यदि शीला बाएँ छोर से 10वीं है, तब पंक्ति में कितनी लड़कियाँ हैं ?",
+    "question_en": "In a row of girls, Rama is $10^{th}$ to the left of Radha and Radha is $17^{th}$ from the right end. Sheela is $4^{th}$ from right of Rama. If Sheela is $10^{th}$ from the left end, then how many girls are there in the row?",
+    "options_hi": [
+      "31",
+      "32",
+      "30",
+      "33"
+    ],
+    "options_en": [
+      "31",
+      "32",
+      "30",
+      "33"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "तीन संख्याओं में से दूसरी संख्या, पहली संख्या की दो गुनी है और तीसरी संख्या की तीन गुनी है। यदि तीनों संख्याओं का औसत 44 हो, तो सबसे बड़ी संख्या है :",
+    "question_en": "Of three numbers, the second number is twice the first and thrice the third. If the average of the three numbers is 44, the largest number is:",
+    "options_hi": [
+      "108",
+      "22",
+      "36",
+      "72"
+    ],
+    "options_en": [
+      "108",
+      "22",
+      "36",
+      "72"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "फूलों की एक क्यारी में, पहली पंक्ति में 23 गुलाब के पौधे हैं, दूसरी पंक्ति में 21, तीसरी पंक्ति में 19 एवं अंतिम पंक्ति में 5 गुलाब के पौधे हैं। फूलों की क्यारी में पंक्तियों की संख्या है:",
+    "question_en": "In a flower bed, there are 23 rose plants in the first row, 21 in the second row, 19 in the third row and 5 rose plants in the last row. The number of rows in the flower bed is:",
+    "options_hi": [
+      "10",
+      "15",
+      "17",
+      "18"
+    ],
+    "options_en": [
+      "10",
+      "15",
+      "17",
+      "18"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित संख्या श्रृंखला में, ग़लत संख्या ज्ञात कीजिए :\n2, 9, 18, 29, 43, 57, 74",
+    "question_en": "In the following number series, find out the wrong number:\n2, 9, 18, 29, 43, 57, 74",
+    "options_hi": [
+      "9",
+      "43",
+      "29",
+      "74"
+    ],
+    "options_en": [
+      "9",
+      "43",
+      "29",
+      "74"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "एक सुबह सूर्योदय के समय, रवि एक खंभे के सामने खड़ा था। खंभे की छाया बाईं ओर बन रही थी। रवि इस दिशा की ओर मुख करके खड़ा था :",
+    "question_en": "One morning during sunrise, Ravi was standing facing a pole. The shadow of the pole was forming on the left side. Ravi was facing towards:",
+    "options_hi": [
+      "दक्षिण",
+      "उत्तर",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "options_en": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "दी गई कौन-सी उत्तर आकृति, प्रश्न आकृति की सही दर्पण छवि है, जब दर्पण RP पर रखा जाता है ?",
+    "question_en": "Which of the given answer figure is the correct mirror image of the question figure, when the mirror is held at RP?",
+    "image": "/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6.png",
+   "options_hi": [
+  "(A) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6a.png' alt='Option A Image'>",
+  "(B) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6b.png' alt='Option A Image'>",
+  "(C) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6c.png' alt='Option A Image'>",
+  "(D) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6d.png' alt='Option A Image'>"
+  
+],
+    "options_en": [
+  "(A) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6a.png' alt='Option A Image'>",
+  "(B) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6b.png' alt='Option A Image'>",
+  "(C) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6c.png' alt='Option A Image'>",
+  "(D) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q6d.png' alt='Option A Image'>"
+  
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "'TRAINING' शब्द के अक्षरों का प्रयोग करके निम्नलिखित में से कौन-से शब्द का निर्माण नहीं किया जा सकता है ?",
+    "question_en": "Which of the following words cannot be formed using the letters of the word 'TRAINING'?",
+    "options_hi": [
+      "GAIN",
+      "RAIN",
+      "RING",
+      "KING"
+    ],
+    "options_en": [
+      "GAIN",
+      "RAIN",
+      "RING",
+      "KING"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "विलुप्त संख्या ज्ञात कीजिए :",
+    "question_en": "Find the missing number:",
+    "image": "/EXAM PAPERS/MPPSC/PAPER02-2024/images/q8.png",
+    "options_hi": [
+      "44",
+      "64",
+      "60",
+      "54"
+    ],
+    "options_en": [
+      "44",
+      "64",
+      "60",
+      "54"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "यदि एक सांकेतिक भाषा में, MANAGER = 34, DIRECTOR = 35 और ASSISTANT = 36 है, तो उसी सांकेतिक भाषा में STAFF को लिखा जाएगा :",
+    "question_en": "If in a code language, MANAGER = 34, DIRECTOR = 35 and ASSISTANT = 36, then STAFF will be written in the same code language as:",
+    "options_hi": [
+      "14",
+      "41",
+      "33",
+      "23"
+    ],
+    "options_en": [
+      "14",
+      "41",
+      "33",
+      "23"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "किसी सांकेतिक भाषा में 'ROAM' को 'URDP' लिखा जाता है। उसी सांकेतिक भाषा में 'SHAN' को कैसे लिखा जाएगा ?",
+    "question_en": "In a code language, 'ROAM' is written as 'URDP'. How will 'SHAN' be written in the same code language?",
+    "options_hi": [
+      "VKDQ",
+      "VSDI",
+      "VUFK",
+      "GHSP"
+    ],
+    "options_en": [
+      "VKDQ",
+      "VSDI",
+      "VUFK",
+      "GHSP"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "एक व्यक्ति को 60 फीट ऊँचे टावर के शिखर को छूना है। प्रत्येक सेकण्ड में, वह 5 फीट चढ़ता है, किन्तु 4 फीट नीचे फिसल जाता है। कितने सेकण्ड बाद वह शिखर को छू लेगा ?",
+    "question_en": "A person has to touch the top of a tower of 60 feet height. In every second, he climbs 5 feet, but slips down 4 feet. In how many seconds would he touch the top?",
+    "options_hi": [
+      "56",
+      "60",
+      "64",
+      "65"
+    ],
+    "options_en": [
+      "56",
+      "60",
+      "64",
+      "65"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "30 दिवसों के किसी माह में, अंतिम दिवस शनिवार है। इस माह के चौथे मंगलवार को क्या दिनांक होगा ?",
+    "question_en": "In a month of 30 days, the last day is Saturday. What will be the date on the fourth Tuesday of that month?",
+    "options_hi": [
+      "20",
+      "21",
+      "25",
+      "26"
+    ],
+    "options_en": [
+      "20",
+      "21",
+      "25",
+      "26"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "यदि किसी निश्चित कूट भाषा में 'bir le nac' का अर्थ है 'green and tasty'; 'pic nac hor' का अर्थ है 'tomato is green', तो निम्नलिखित में से कौन-सा निश्चित रूप से सही है ?",
+    "question_en": "If in a certain code language 'bir le nac' means 'green and tasty'; 'pic nac hor' means 'tomato is green', then which of the following is definitely true?",
+    "options_hi": [
+      "'bir' का अर्थ है 'green'",
+      "'nac' का अर्थ है 'tomato'",
+      "'le' का अर्थ है 'tasty'",
+      "'nac' का अर्थ है 'green'"
+    ],
+    "options_en": [
+      "'bir' means 'green'",
+      "'nac' means 'tomato'",
+      "'le' means 'tasty'",
+      "'nac' means 'green'"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "कुछ क्रिकेट खिलाड़ी, टेनिस खिलाड़ी हैं। सभी टेनिस खिलाड़ी, हॉकी खिलाड़ी हैं। निम्नलिखित में से कौन-सा निश्चित रूप से सही है ?",
+    "question_en": "Some cricket players are tennis players. All tennis players are hockey players. Which of the following is definitely true?",
+    "options_hi": [
+      "सभी क्रिकेट खिलाड़ी, हॉकी खिलाड़ी हैं।",
+      "कुछ क्रिकेट खिलाड़ी, हॉकी खिलाड़ी नहीं हैं।",
+      "कुछ टेनिस खिलाड़ी, हॉकी खिलाड़ी नहीं हैं।",
+      "कुछ क्रिकेट खिलाड़ी, हॉकी खिलाड़ी हैं।"
+    ],
+    "options_en": [
+      "All cricket players are hockey players.",
+      "Some cricket players are not hockey players.",
+      "Some tennis players are not hockey players.",
+      "Some cricket players are hockey players."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "नीचे दी गई आकृति में, त्रिभुज डॉक्टरों को दर्शाता है, वृत्त खिलाड़ियों को दर्शाता है और वर्ग कलाकारों को दर्शाता है। तो उन कलाकारों की संख्या क्या है, जो केवल खिलाड़ी हैं?",
+    "question_en": "In the figure given below, triangle represents doctors, circle represents players and square represents artists. Then what is the number of artists who are players only?",
+    "image": "/EXAM PAPERS/MPPSC/PAPER02-2024/images/q15.png",
+    "options_hi": [
+      "14",
+      "10",
+      "4",
+      "13"
+    ],
+    "options_en": [
+      "14",
+      "10",
+      "4",
+      "13"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा आरेख गुलाब, फूल और आम के बीच सबसे अच्छे सम्बन्ध को दर्शाता है ?",
+    "question_en": "Which of the following diagram indicates the best relation between Rose, Flower and Mango?",
+   
+    "options_hi": [
+"(A) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16a.png' alt='Option A Image'>",
+  "(B) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16b.png' alt='Option A Image'>",
+  "(C) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16c.png' alt='Option A Image'>",
+  "(D) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16d.png' alt='Option A Image'>"
+  
+    ],
+    "options_en": [
+      "(A) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16a.png' alt='Option A Image'>",
+  "(B) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16b.png' alt='Option A Image'>",
+  "(C) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16c.png' alt='Option A Image'>",
+  "(D) <img src='/EXAM PAPERS/MPPSC/PAPER02-2024/images/q16d.png' alt='Option A Image'>"
+  
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "यदि x का अर्थ है -, /  का अर्थ है +, + का अर्थ है / और - का अर्थ x है, तो निम्नलिखित को बढ़ते हुए क्रम में व्यवस्थित कीजिए : \n1. 15 - 5 / 5 x 20 + 10 \n2. 8 / 10 - 3 + 5 x 6 \n3. 6 x 2 + 3 / 12 - 3  \n4. 3 / 7 - 5  x 10 + 3  \nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "If x stand for, stands for +, + stands and stands for x, then arrange the for -following in increasing order: \n1. 15 - 5/5 * 20 + 10 \n2.8/10 - 3 + 5 * 6 \n3.6 * 2 + 3/12 - 3 \n4.3/7 - 5 * 10 + 3 \nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "4, 1, 3, 2",
+      "2, 4, 3, 1",
+      "4, 3, 2, 1",
+      "2, 4, 1, 3"
+    ],
+    "options_en": [
+      "4, 1, 3, 2",
+      "2, 4, 3, 1",
+      "4, 3, 2, 1",
+      "2, 4, 1, 3"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "एक क्रिकेट मैच में, पाँच बल्लेबाजों A, B, C, D और E ने औसतन 41 रन बनाए । D ने E से 5 रन अधिक बनाए; E ने A से 8 रन कम बनाए; B ने D और E के संयुक्त स्कोर से 5 रन कम बनाए; B और C ने अपने बीच 117 रन बनाए। C ने कितने रन बनाए ?",
+    "question_en": "In a cricket match, five batsmen A, B, C, D and E scored an average of 41 runs. D scored 5 more than E; E scored 8 fewer than A; B scored 5 fewer than D and E combined; B and C scored 117 between them. How many runs did C score?",
+    "options_hi": [
+      "37",
+      "85",
+      "67",
+      "53"
+    ],
+    "options_en": [
+      "37",
+      "85",
+      "67",
+      "53"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "एक प्रिन्टर एक किताब के पृष्ठ क्रमांकों को 1A से शुरू करता है। यदि 4S किताब का आखिरी पृष्ठ क्रमांक है, तो किताब में कुल कितने पृष्ठ हैं ?",
+    "question_en": "A printer numbers the pages of a book starting with 1A. If 4S is the last page of the book, then how many pages are in the book?",
+    "options_hi": [
+      "104",
+      "98",
+      "97",
+      "95"
+    ],
+    "options_en": [
+      "104",
+      "98",
+      "97",
+      "95"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "18 लोगों के एक समूह में, 10 फ्रेंच पढ़ते हैं, 11 अंग्रेजी पढ़ते हैं, जबकि 6 इन दोनों में से कुछ भी नहीं पढ़ते हैं। उनमें से कितने फ्रेंच और अंग्रेजी दोनों पढ़ते हैं ?",
+    "question_en": "In a group of 18 people, 10 read French, 11 read English, while 6 read none of these two. How many of them read both French and English?",
+    "options_hi": [
+      "6",
+      "9",
+      "3",
+      "4"
+    ],
+    "options_en": [
+      "6",
+      "9",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "व्यक्ति या समूह की ऐसी अवस्था जो कि विद्यमान है, परन्तु समूह के सदस्य उसे अनावश्यक समझते हैं :",
+    "question_en": "A condition of people or a group that exists, but members of the group consider that undesirable is:",
+    "options_hi": [
+      "नियम",
+      "समस्या",
+      "कानून",
+      "मानदंड"
+    ],
+    "options_en": [
+      "Rule",
+      "Problem",
+      "Law",
+      "Parameters"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "पाँच पद वाले समस्या समाधान मॉडल का अंतिम पद क्या है?",
+    "question_en": "Which is the last step of the Five-Step Problem Solving model?",
+    "options_hi": [
+      "समस्या समाधान",
+      "एक विकल्प का चयन",
+      "स्थिति का मूल्यांकन",
+      "निर्णय लेना"
+    ],
+    "options_en": [
+      "Problem solving",
+      "Selection of an alternative",
+      "Evaluation of the situation",
+      "Decision-making"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "किसी समस्या के समाधान से जुड़े हुए दो या दो से अधिक कार्यवाही की योजना संबंधित प्रक्रिया की पहचान एवं चयन को कहा जाता है।",
+    "question_en": "The process of identifying and selecting a course of action from two or more courses of action to be taken to solve a problem is called",
+    "options_hi": [
+      "समस्या समाधान",
+      "सराहनीय पूछताछ (जाँच)",
+      "निर्णय निर्धारण",
+      "समस्या को तार्किकता से समझना"
+    ],
+    "options_en": [
+      "problem solving",
+      "appreciative inquiry",
+      "decision-making",
+      "rationalizing the problem"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "समाधान का क्रियान्वयन के साथ शुरू होता है",
+    "question_en": "Implementation of the solution starts with",
+    "options_hi": [
+      "एक कार्य योजना विकसित करने",
+      "लक्ष्य निर्धारित करने",
+      "एक योजना बनाने",
+      "संसाधनों की पहचान करने"
+    ],
+    "options_en": [
+      "developing an action plan",
+      "determining objectives",
+      "building a plan",
+      "identifying resources"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "एक ऐसा वातावरण जिसमें प्रतिभागियों को 'खुलकर सोचने' की स्वतंत्रता होती है, है",
+    "question_en": "An environment in which the participants are free to 'think aloud' is",
+    "options_hi": [
+      "विश्लेषण",
+      "बुद्धिशीलता (ब्रेनस्टॉर्मिंग)",
+      "चर्चा",
+      "बहस"
+    ],
+    "options_en": [
+      "Analysing",
+      "Brainstorming",
+      "Discussion",
+      "Debate"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "समस्या की रूपरेखा (मानदंड) में शामिल नहीं है",
+    "question_en": "Problem parameters do not include",
+    "options_hi": [
+      "कौन समाहित है ?",
+      "कौन समाहित नहीं है ?",
+      "क्या हो रहा है?",
+      "क्या दांव पर है?"
+    ],
+    "options_en": [
+      "Who is involved?",
+      "Who is not involved?",
+      "What is happening?",
+      "What the stakes are?"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "नियमित निर्णय प्रकृति के होते हैं",
+    "question_en": "Routine decisions are in nature.",
+    "options_hi": [
+      "आंतरिक",
+      "स्थायी",
+      "अप्रासंगिक",
+      "पुनरावृत्ति"
+    ],
+    "options_en": [
+      "Internal",
+      "Constant",
+      "Irrelevant",
+      "Repetitive"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "संगठन में किसी व्यक्ति के द्वारा लिया गया निर्णय के तौर पर जाना जाता है",
+    "question_en": "A decision taken by an individual in the organisation is known as",
+    "options_hi": [
+      "व्यक्तिगत निर्णय",
+      "समूह निर्णय",
+      "सामूहिक निर्णय",
+      "अलग निर्णय"
+    ],
+    "options_en": [
+      "Individual decision",
+      "Group decision",
+      "Collective decision",
+      "Separate decision"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "एक प्रभावी निर्णय लेने वाले के गुणों में समाहित है",
+    "question_en": "Attributes of an effective decision maker include",
+    "options_hi": [
+      "कोई निर्णय नहीं",
+      "जोखिम उठाने वाला",
+      "कठोरता",
+      "समग्रता (व्यापकता)"
+    ],
+    "options_en": [
+      "No judgement",
+      "Risk taking",
+      "Rigidness",
+      "Comprehensiveness"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "यांत्रिक निर्णयों के परिणाम होते हैं",
+    "question_en": "The outcomes of mechanistic decisions are",
+    "options_hi": [
+      "ज्ञात",
+      "अज्ञात",
+      "छिपे हुए",
+      "अप्रासंगिक"
+    ],
+    "options_en": [
+      "known",
+      "unknown",
+      "hidden",
+      "irrelevant"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "संख्या 198 को तीन भागों में इस प्रकार विभाजित किया जाता है कि पहले भाग का $\\frac{1}{2}$, दूसरे भाग का $\\frac{1}{3}$ एवं तीसरे भाग का $\\frac{1}{4}$ सभी बराबर हैं। तब सबसे बड़े भाग का मान होगा :",
+    "question_en": "Number 198 is divided into three parts such that $\\frac{1}{2}$ of the first part, $\\frac{1}{3}rd$ of the second part and $\\frac{1}{4}^{th}$ of the third part shall all be equal. Then the value of the largest part will be:",
+    "options_hi": [
+      "68",
+      "78",
+      "88",
+      "98"
+    ],
+    "options_en": [
+      "68",
+      "78",
+      "88",
+      "98"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित संख्याओं में से कौन-सी संख्या, संख्या-सूची 5, 11, 17, 23, ... में है?",
+    "question_en": "Which of the following number is in the list of numbers 5, 11, 17, 23, ... ?",
+    "options_hi": [
+      "179",
+      "189",
+      "169",
+      "159"
+    ],
+    "options_en": [
+      "179",
+      "189",
+      "169",
+      "159"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "तीन-अंकों वाली सभी संख्याओं, जो 7 से विभाज्य हैं, की संख्या है :",
+    "question_en": "The number of all three-digit numbers that are divisible by 7 is:",
+    "options_hi": [
+      "127",
+      "128",
+      "129",
+      "130"
+    ],
+    "options_en": [
+      "127",
+      "128",
+      "129",
+      "130"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "अंकों 0, 1, 2, 3, 4, 5 से कितनी 3-अंकीय सम संख्याएँ बनाई जा सकती हैं, यदि अंकों की पुनरावृत्ति की जा सकती है:",
+    "question_en": "How many 3-digit even numbers can be formed, using the digits 0, 1, 2, 3, 4, 5, if repetition of the digits is allowed:",
+    "options_hi": [
+      "90",
+      "216",
+      "75",
+      "150"
+    ],
+    "options_en": [
+      "90",
+      "216",
+      "75",
+      "150"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित आँकड़ों की माध्यिका है: 17, 8, 9, 5, 26, 19, 13, 26, 29",
+    "question_en": "The median of the following data is: 17, 8, 9, 5, 26, 19, 13, 26, 29",
+    "options_hi": [
+      "13",
+      "17",
+      "18",
+      "19"
+    ],
+    "options_en": [
+      "13",
+      "17",
+      "18",
+      "19"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नांकित पाई-चार्ट किसी परिवार के प्रति माह होने वाले खर्चों और बचत को प्रदर्शित करता है। यदि मकान के किराए पर होने वाला प्रति माह खर्च ₹18,000 है, तो प्रति माह भोजन और परिवहन पर होने वाले खर्चों का योगफल है:",
+    "question_en": "The following pie-chart shows the monthly expenses and savings of a family. If the expenditure on the house rent is ₹18,000 per month, then the sum of the expenditure on food and transport is:",
+    "image": "/EXAM PAPERS/MPPSC/PAPER02-2024/images/q36.png",
+    "options_hi": [
+      "₹36,000",
+      "₹45,000",
+      "₹36,600",
+      "₹45,600"
+    ],
+    "options_en": [
+      "₹36,000",
+      "₹45,000",
+      "₹36,600",
+      "₹45,600"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "4 क्रमागत विषम संख्याओं का औसत 18 है। इन संख्याओं में से सबसे बड़ी तथा सबसे छोटी संख्याओं का गुणनफल है :",
+    "question_en": "The average of 4 consecutive odd numbers is 18. Then the product of the largest and smallest numbers among them is:",
+    "options_hi": [
+      "187",
+      "247",
+      "315",
+      "391"
+    ],
+    "options_en": [
+      "187",
+      "247",
+      "315",
+      "391"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "ताश के 52 पत्तों की एक भली-भाँति फेंटी गई गड्डी में से एक पत्ता यादृच्छया निकाला जाता है। निकाले गए पत्ते की एक तस्वीर वाला पत्ता (अर्थात् फेस कार्ड) होने की प्रायिकता है:",
+    "question_en": "One card is drawn randomly from a well-shuffled pack of 52 cards. The probability of the drawn card being a face card is:",
+    "options_hi": [
+      "1",
+      "$\\frac{1}{13}$",
+      "$\\frac{2}{13}$",
+      "$\\frac{3}{13}$"
+    ],
+    "options_en": [
+      "1",
+      "$\\frac{1}{13}$",
+      "$\\frac{2}{13}$",
+      "$\\frac{3}{13}$"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "एक व्यक्ति के पास निवेश करने हेतु ₹9,000 हैं। वह ₹ 3,500, 6% साधारण ब्याज की वार्षिक दर से एवं ₹3,000, 5% साधारण ब्याज की वार्षिक दर से निवेश करता है। ₹ 450 वार्षिक आय प्राप्त करने के लिए, उसे शेष राशि किस दर से निवेश करनी चाहिए ?",
+    "question_en": "A man has ₹ 9,000 to invest. He invests ₹ 3,500 at 6% per annum simple interest and ₹ 3,000 at 5% per annum simple interest. In order to have a yearly income of ₹ 450, at what rate must he invest the remaining amount?",
+    "options_hi": [
+      "3.6% प्रति वर्ष",
+      "3.5% प्रति वर्ष",
+      "3.8% प्रति वर्ष",
+      "3.9% प्रति वर्ष"
+    ],
+    "options_en": [
+      "3.6% per annum",
+      "3.5% per annum",
+      "3.8% per annum",
+      "3.9% per annum"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "यदि एक संख्या 5a108, 11 से पूर्णतः विभाजित है, तब 'a' का मान होगा :",
+    "question_en": "If a number 5a108 is completely divisible by 11, then the value of 'a' will be:",
+    "options_hi": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन हितों के सम्भावित टकराव में शामिल नहीं है?",
+    "question_en": "Which one of the following is not involved in the potential conflict of interests?",
+    "options_hi": [
+      "पर्यावरणविद्",
+      "उपग्रह चित्र प्रदाता",
+      "प्रकाश उद्योग",
+      "सरकारी एजेंसियाँ"
+    ],
+    "options_en": [
+      "Environmentalists",
+      "Satellite image providers",
+      "Lighting industry",
+      "Government agencies"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "प्रकाश प्रदूषण को ऊर्जा का अपशेष क्यों कहा जाता है ?",
+    "question_en": "Why is light pollution called a wasted energy?",
+    "options_hi": [
+      "क्योंकि प्रकाश प्रदूषण हमारे अंधकार के प्रत्यक्ष बोध को बिगाड़ देता है।",
+      "प्रायः सभी प्रदूषण अपशेष से सम्बन्ध रखते हैं",
+      "चूँकि ऊर्ध्वमुखी प्रकाश जिससे प्रकाश प्रदूषण उत्पन्न होता है, अभीष्ट प्रदीपन मुहैया नहीं करता।",
+      "क्योंकि प्रकाश प्रदूषण हमारी दृश्यता की क्षमता का नाश करता है"
+    ],
+    "options_en": [
+      "Because light pollution damages our perception of the dark.",
+      "Most pollutions are wasteful.",
+      "Because upward directed light which causes light pollution does not provide the intended illumination.",
+      "Because light pollution is wasting our power of visibility."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "आकाश उज्ज्वलता दर्शाने वाले मानचित्र निम्नलिखित में से कौन-सी अतिरिक्त जानकारी भी प्रदान कर रहे हैं?",
+    "question_en": "Which of the following information are the maps showing sky brightness additionally furnishing?",
+    "options_hi": [
+      "रात्रि आकाश पर प्रकाश प्रदूषण का प्रभाव",
+      "वायु के अणुओं द्वारा प्रकाश का प्प्रकीर्णन",
+      "विकसित शहरी क्षेत्रों तथा घनी आबादी वाले क्षेत्रों में प्रकाश प्रदूषण की वृद्धि",
+      "पृथ्वी की सतह से ऊर्ध्वमुखी प्रेषित प्रकाश"
+    ],
+    "options_en": [
+      "Effect of light pollution on the night sky",
+      "Scattering of light by air molecules",
+      "Growth of light pollution in developed urban areas and densely populated areas",
+      "Light beamed upward from the Earth's surface"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "इस गद्यांश के अनुसार हमारे वातावरण को बहुत तेज़ी से कौन चुनौती दे रहा है ?",
+    "question_en": "What according to the passage is rapidly threatening our environment?",
+    "options_hi": [
+      "प्रकाश प्रदूषण",
+      "मानचित्र",
+      "उपग्रह चित्र",
+      "आकाश के तारे"
+    ],
+    "options_en": [
+      "Light pollution",
+      "Maps",
+      "Satellite images",
+      "Stars in the sky"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "हमारे सितारों भरे आकाश की दृश्यता को क्या नुकसान पहुँचा रहा है ?",
+    "question_en": "What is damaging our view of the starry sky?",
+    "options_hi": [
+      "आकाश में बढ़ता हुआ अंधकार",
+      "रात्रि आकाश में बढ़ती हुई उज्ज्वलता",
+      "बढ़ता हुआ जल-प्रदूषण",
+      "बढ़ता हुआ मानसिक जड़त्व"
+    ],
+    "options_en": [
+      "Increasing darkness of the sky",
+      "Increasing brightness of the night sky",
+      "Increasing water pollution",
+      "Increasing mental inertia"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "दुष्ट विषय के प्रति हमें किस प्रकार का भाव रखना चाहिए ?",
+    "question_en": "What kind of attitude should one have towards an evil subject?",
+    "options_hi": [
+      "उदासीन",
+      "नकारात्मक",
+      "मैत्री भाव",
+      "दयाशील"
+    ],
+    "options_en": [
+      "Indifferent",
+      "Negative",
+      "Friendly",
+      "Merciful"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "पहचानिए कि निम्नलिखित में से कौन-सा भाव लेखक हमें रखने नहीं देना चाहते ।",
+    "question_en": "Identify which one of the following ideas the author not want us to have.",
+    "options_hi": [
+      "हम दीन-दुखियों के प्रति दयाशील हों",
+      "हम सब के लिए मैत्री का भाव रखें",
+      "अप्रसन्न लोगों के प्रति भी हम प्रसन्नता का भाव रखें",
+      "हम दुष्टजनों के प्रति उदासीनता का भाव रखें"
+    ],
+    "options_en": [
+      "We must be merciful towards people in misery.",
+      "We must have friendship for all.",
+      "We ought to be happy towards unhappy people.",
+      "We must be indifferent to the wicked."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "घृणा भाव या क्रोध की भावना के दमन के बाद क्या होता है?",
+    "question_en": "What follows when we suppress a feeling of hatred or anger?",
+    "options_hi": [
+      "वह उस वस्तु की ओर तरंगों में प्रवाहित होता है",
+      "हम अपनी शक्ति खो देते हैं",
+      "हमारे उपकार हेतु सकारात्मक ऊर्जा संचित होती है",
+      "उपर्युक्त में से कोई नहीं"
+    ],
+    "options_en": [
+      "It comes out in waves towards the object.",
+      "We lose our power.",
+      "Good energy is stored up in our favour.",
+      "None of the above"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा कथन इस गद्यांश के संदर्भ में सही नहीं है?",
+    "question_en": "Which of the following statements is not true with reference to this passage?",
+    "options_hi": [
+      "प्रत्येक बार जब हम घृणा भाव का दमन करते हैं, तो हमारे उपकार हेतु बहुत-सी सकारात्मक ऊर्जा संचित होती है",
+      "हमें दीन-दुखियों के प्रति करुणापूर्ण होना चाहिए।",
+      "घृणा और बुराई के रूप में प्रत्येक प्रतिक्रिया मन के लिए हानिप्रद होती है",
+      "यदि कोई व्यक्ति हमसे कुछ बुरा करता है, तो हमें घृणा से उसका प्रतिकार करना चाहिए"
+    ],
+    "options_en": [
+      "Each time we suppress hatred, we see so much good energy stored up in our favour.",
+      "We must be merciful towards the miserable ones.",
+      "Every reaction as hatred or evil leads to loss of mind.",
+      "If a man does evil to us we should react in the form of hatred."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "एक दुखकर विषय के साथ हमें कैसा व्यवहार करना चाहिए?",
+    "question_en": "How should we treat a miserable subject?",
+    "options_hi": [
+      "क्रोध व्यक्त करें",
+      "उदासीन रहें",
+      "करुणापूर्ण हों",
+      "घृणा व्यक्त करें"
+    ],
+    "options_en": [
+      "Show anger",
+      "Be indifferent",
+      "Be merciful",
+      "Express hatred"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा संगठनात्मक संचार संगठन के संरचनात्मक पदानुक्रम द्वारा परिभाषित नहीं है ?\n1. औपचारिक सम्प्रेषण\n2. अनौपचारिक सम्प्रेषण\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "Which of the following organisational communication is not defined by the organisation's structural hierarchy?\n1. Formal communication\n2. Informal communication\nChoose the correct answer from the code given below :",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 एवं 2 दोनों",
+      "न तो 1 न ही 2"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा सम्प्रेषण के अशाब्दिक घटक का एक उदाहरण है ?\n1. तुम क्या कहते हो ?\n2. आप कैसे कहते हैं ?\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "Which of the following is an example of the non-verbal component of communication?\n1. What you say?\n2. How you say?\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 एवं 2 दोनों",
+      "न तो 1 न ही 2"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "प्रभावी अनुनय कौशल के संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं ?\n1. इसका प्रारम्भ कार्यवाही के अनुसरण के महत्त्व और संभावित लाभों को बतलाने से होता है।\n2. इसका प्रारम्भ कार्यवाही के अनुसरण के लाभ और हानियों के बतलाने से होता है।\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "With reference to effective persuasion skill, which of the following statements is/are correct?\n1. It starts with stating the importance of following a course of action and the likely benefits.\n2. It starts with stating the pros and cons of following a course of action.\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 एवं 2 दोनों",
+      "न तो 1 न ही 2"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा सम्प्रेषण कौशल नहीं है?\n1. अनुनय कौशल\n2. वाचन कौशल\n3. लेखन कौशल\n4. संकल्पनात्मक कौशल\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "Which of the following is not a communication skill?\n1. Persuasion skill\n2. Speaking skill\n3. Writing skill\n4. Conceptual skill\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "केवल 3",
+      "केवल 4"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "4 only"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "अनुनय कौशल के संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं ?\n1. यह एक व्यक्ति को दूसरों को अपना मन बदलने के लिए प्रभावित करने में सक्षम बनाता है।\n2. यह एक व्यक्ति को दूसरों को अपना व्यवहार बदलने के लिए प्रभावित करने में सक्षम बनाता है।\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "With reference to persuasion skill, which of the following statements is/are correct?\n1. It enables a person to influence others to change their minds.\n2. It enables a person to influence others to change their behaviour.\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 एवं 2 दोनों",
+      "न तो 1 न ही 2"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "सम्प्रेषण प्रक्रिया में निम्नलिखित घटनाओं पर विचार कीजिए तथा उनको कालक्रमानुसार व्यवस्थित कीजिए :\n1. संदेश\n2. प्रेषक\n3. एन्कोडिंग\n4. चैनल\n5. डिकोडिंग\n6. प्राप्तकर्ता\n7. प्रतिपुष्टि\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "Consider the following events in the communication process and arrange them in chronological order:\n1. Message\n2. Sender\n3. Encoding\n4. Channel\n5. Decoding\n6. Receiver\n7. Feedback\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "1, 2, 3, 4, 5, 6, 7",
+      "2, 1, 3, 4, 5, 7, 6",
+      "2, 1, 3, 4, 5, 6, 7",
+      "1, 2, 4, 3, 5, 6, 7"
+    ],
+    "options_en": [
+      "1, 2, 3, 4, 5, 6, 7",
+      "2, 1, 3, 4, 5, 7, 6",
+      "2, 1, 3, 4, 5, 6, 7",
+      "1, 2, 4, 3, 5, 6, 7"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "सम्प्रेषण के कार्यों में शामिल है:",
+    "question_en": "The function of communication includes:",
+    "options_hi": [
+      "कर्मचारी के व्यवहार का नियंत्रण",
+      "कर्मचारियों को अभिप्रेरित करना",
+      "सामाजिक आवश्यकताओं को पूरा करना",
+      "उपर्युक्त सभी"
+    ],
+    "options_en": [
+      "Controlling employee behaviour",
+      "Motivating employees",
+      "Fulfilment of social needs",
+      "All of the above"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "सम्प्रेषण में अपनी सामग्री को व्यवस्थित करने के संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\n1. इसमें एक कहानी सम्मिलित होती है जो दर्शकों को बाँधे रखती है।\n2. इसमें दर्शकों को विद्यमान समस्या को समझने में मदद करने के लिए आँकड़ों या अन्य सूचनाओं का उपयोग सम्मिलित है।\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "With reference to organising your content in communication, which of the following statements is/are correct?\n1. It includes a story that engages the audience.\n2. It includes use of data or other information to help the audience to understand the problem at hand.\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 एवं 2 दोनों",
+      "न तो 1 न ही 2"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "कौशल अभ्यास से सम्बन्धित निम्नलिखित चरणों पर विचार कीजिए तथा उनको कालक्रमानुसार व्यवस्थित कीजिए :\n1. अपने श्रोताओं को जानिए।\n2. अपने विषय-वस्तु को व्यवस्थित करें।\n3. सम्मोहक दृश्य तैयार करें।\n4. अपने आप को शान्त करें।\n5. अपनी प्रस्तुतीकरण पर ध्यान दें।\nनीचे दिए गए कूट से सही उत्तर चुनिए :",
+    "question_en": "Consider the following steps related to practising the skill and arrange them in chronological order:\n1. Know your audience.\n2. Organise your content.\n3. Prepare compelling visuals.\n4. Calm yourself.\n5. Focus on your presentation.\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "5, 4, 3, 2, 1",
+      "1, 2, 3, 4, 5",
+      "1, 3, 2, 4, 5",
+      "2, 1, 3, 4, 5"
+    ],
+    "options_en": [
+      "5, 4, 3, 2, 1",
+      "1, 2, 3, 4, 5",
+      "1, 3, 2, 4, 5",
+      "2, 1, 3, 4, 5"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "सम्प्रेषण कौशल अभ्यास के संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं ?\n1. अपने श्रोताओं एवं उनकी आवश्यकताओं को समझने से आपको अपना संदेश तैयार करने में मदद मिल सकती है।\n2. अपने श्रोताओं और उनकी आवश्यकताओं को समझने से आपको अपने विषय को अनुकूलित करने में मदद मिल सकती है।\nनीचे दिए गए कूट से सही उत्तर चुनिएं :",
+    "question_en": "With reference to practising communication skills, which of the following statements is/are correct?\n1. Understanding your audience and their needs can help you tailor your message.\n2. Understanding your audience and their needs can help you tailor your subject matter.\nChoose the correct answer from the code given below:",
+    "options_hi": [
+      "केवल 1",
+      "केवल 2",
+      "1 एवं 2 दोनों",
+      "न तो 1 न ही 2"
+    ],
+    "options_en": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "बाबू जी किसका पाठ किया करते थे ?",
+    "question_en": "What did Babu Ji recite?",
+    "options_hi": [
+      "गीता",
+      "रामचरितमानस",
+      "रामायण",
+      "भगवद्‌गीता"
+    ],
+    "options_en": [
+      "Gita",
+      "Ramcharitmanas",
+      "Ramayana",
+      "Bhagavad Gita"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "बाबू जी आटे की गोलियों का क्या करते थे ?",
+    "question_en": "What did Babu Ji do with the flour balls?",
+    "options_hi": [
+      "स्वयं खाते थे",
+      "मछलियों को खिलाते थे",
+      "ईश्वर को चढ़ाते थे",
+      "भोलानाथ को देते थे"
+    ],
+    "options_en": [
+      "Ate them himself",
+      "Fed them to the fish",
+      "Offered them to God",
+      "Gave them to Bholanath"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "तारकेश्वरनाथ किसका नाम था ?",
+    "question_en": "Whose name was Tarkeshwarnath?",
+    "options_hi": [
+      "भोलानाथ का",
+      "भोलानाथ के पिता का",
+      "भोलानाथ के भाई का",
+      "भोलानाथ के मित्र का"
+    ],
+    "options_en": [
+      "Bholanath's",
+      "Bholanath's father's",
+      "Bholanath's brother's",
+      "Bholanath's friend's"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "बाबू जी रामनामा बही पर कितने राम नाम लिखते थे ?",
+    "question_en": "How many Ram Naams did Babu Ji write in the Ramnama book?",
+    "options_hi": [
+      "सौ",
+      "पाँच सौ",
+      "हज़ार",
+      "एक हज़ार एक सौ"
+    ],
+    "options_en": [
+      "Hundred",
+      "Five hundred",
+      "Thousand",
+      "One thousand one hundred"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भोलानाथ का घर किस नदी के पास था ?",
+    "question_en": "Bholanath's house was near which river?",
+    "options_hi": [
+      "नर्मदा",
+      "कावेरी",
+      "यमुना",
+      "गंगा"
+    ],
+    "options_en": [
+      "Narmada",
+      "Kaveri",
+      "Yamuna",
+      "Ganga"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "किसी भी विचारधारा का प्रवर्तन करने वाला व्यक्ति कैसा होता है?",
+    "question_en": "What kind of person propagates any ideology?",
+    "options_hi": [
+      "सतर्क",
+      "परिश्रमी",
+      "कठोर",
+      "जाग्रत"
+    ],
+    "options_en": [
+      "Alert",
+      "Hardworking",
+      "Stern",
+      "Awakened"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "प्रतिभाशाली व्यक्ति क्या-क्या करते हैं ?",
+    "question_en": "What do talented individuals do?",
+    "options_hi": [
+      "समाज में क्रान्ति को जन्म देते हैं।",
+      "समाज में अपने अधिकारों के लिए लड़ते हैं",
+      "समाज की विशिष्ट धारणाओं या व्यवस्थाओं को जन्म देते हैं।",
+      "समाज को जड़ बनाते हैं"
+    ],
+    "options_en": [
+      "They give birth to revolution in society.",
+      "They fight for their rights in society",
+      "They give birth to specific concepts or systems in society.",
+      "They make society stagnant"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "मनुष्य एक ... प्राणी भी है।",
+    "question_en": "Man is also a ... creature.",
+    "options_hi": [
+      "व्यावहारिक",
+      "सामाजिक",
+      "अहंकारी",
+      "निरंकुश"
+    ],
+    "options_en": [
+      "Practical",
+      "Social",
+      "Arrogant",
+      "Autocratic"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "मनुष्य अपनी व्यक्तिगत इच्छाओं का नियंत्रण किसके हाथों में सौंप देता है ?",
+    "question_en": "Into whose hands does man entrust the control of his personal desires?",
+    "options_hi": [
+      "मनुष्य",
+      "राष्ट्र",
+      "बाज़ार",
+      "समाज"
+    ],
+    "options_en": [
+      "Man",
+      "Nation",
+      "Market",
+      "Society"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "मनुष्य एक सामाजिक प्राणी है वहाँ वह ... प्राणी भी है।",
+    "question_en": "While man is a social creature, he is also a ... creature.",
+    "options_hi": [
+      "विचार-प्रधान",
+      "बुद्धि-प्रधान",
+      "वाणी-प्रधान",
+      "बल-प्रधान"
+    ],
+    "options_en": [
+      "Thought-dominated",
+      "Intellect-dominated",
+      "Speech-dominated",
+      "Power-dominated"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सी जनपदीय बोली नहीं है?",
+    "question_en": "Which of the following is not a regional dialect?",
+    "options_hi": [
+      "आंग्ल",
+      "मैथिली",
+      "भोजपुरी",
+      "अवधी"
+    ],
+    "options_en": [
+      "Angla (English)",
+      "Maithili",
+      "Bhojpuri",
+      "Awadhi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "सूर, तुलसी और कबीर की साहित्यिक परंपरा को किसने अपनाया ?",
+    "question_en": "Who adopted the literary tradition of Sur, Tulsi, and Kabir?",
+    "options_hi": [
+      "मध्यकालीन हिन्दी साहित्य",
+      "वीरगाथाकालीन हिन्दी साहित्य",
+      "आधुनिक हिन्दी साहित्य",
+      "रीतिकालीन हिन्दी साहित्य"
+    ],
+    "options_en": [
+      "Medieval Hindi literature",
+      "Heroic age Hindi literature",
+      "Modern Hindi literature",
+      "Ritikal Hindi literature"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भारतेन्दु युग से अब तक हिन्दी की प्रगति का क्या कारण है ?",
+    "question_en": "What is the reason for the progress of Hindi from the Bharatendu era till now?",
+    "options_hi": [
+      "शिष्ट भाषा के रूप में हिन्दी की प्रगति",
+      "उर्दू से अलगाव",
+      "जनपदीय बोलियों तथा पुराने हिन्दी साहित्य से संबंध",
+      "अवधी भाषा से संबंध"
+    ],
+    "options_en": [
+      "Progress of Hindi as a refined language",
+      "Separation from Urdu",
+      "Connection with regional dialects and old Hindi literature",
+      "Connection with Awadhi language"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भारतेन्दु जी के गद्य में किस भाषा की मिठास है ?",
+    "question_en": "Which language's sweetness is found in Bharatendu ji's prose?",
+    "options_hi": [
+      "ब्रजभाषा",
+      "अवधी",
+      "उर्दू",
+      "भोजपुरी"
+    ],
+    "options_en": [
+      "Braj Bhasha",
+      "Awadhi",
+      "Urdu",
+      "Bhojpuri"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "विभिन्न जनपदों की शिष्ट भाषा के रूप में विकसित होने वाली भाषा को क्या कहते हैं ?",
+    "question_en": "What is the language that develops as the refined language of various regions called?",
+    "options_hi": [
+      "जनपदीय भाषा",
+      "जनपदीय बोलियाँ",
+      "जातीय भाषा",
+      "इनमें से कोई नहीं"
+    ],
+    "options_en": [
+      "Regional language",
+      "Regional dialects",
+      "Ethnic/National language",
+      "None of these"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "परशुराम के साथ संवाद के अवसर पर लक्ष्मण में कौन-सा भाव दिखाई पड़ता है ?",
+    "question_en": "What emotion is visible in Lakshman during the dialogue with Parashuram?",
+    "options_hi": [
+      "धीरता",
+      "गंभीरता",
+      "विनय",
+      "चपलता"
+    ],
+    "options_en": [
+      "Patience",
+      "Seriousness",
+      "Humility",
+      "Agility/Restlessness"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "किनके परिताप वचनों पर लक्ष्मण में उग्रता दिखाई पड़ती है?",
+    "question_en": "On whose words of sorrow does Lakshman show aggression?",
+    "options_hi": [
+      "राम",
+      "रावण",
+      "कुंभकर्ण",
+      "जनक"
+    ],
+    "options_en": [
+      "Ram",
+      "Ravan",
+      "Kumbhakarna",
+      "Janak"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "राम और लक्ष्मण ने बाल्यावस्था में किस ऋषि से अस्त्र शिक्षा प्राप्त की ?",
+    "question_en": "From which sage did Ram and Lakshman receive weapons training in their childhood?",
+    "options_hi": [
+      "वशिष्ठ",
+      "संदीपन",
+      "विश्वामित्र",
+      "शांडिल्य"
+    ],
+    "options_en": [
+      "Vashishtha",
+      "Sandipan",
+      "Vishwamitra",
+      "Shandilya"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "राम व लक्ष्मण ने जिस उल्लासपूर्ण साहस से पहले-पहल राक्षसों पर अपना बल आजमाया, उसे कह सकते हैं:",
+    "question_en": "The joyful courage with which Ram and Lakshman first tried their strength on the demons can be called:",
+    "options_hi": [
+      "करुणा",
+      "क्रोध",
+      "गर्व",
+      "उत्साह"
+    ],
+    "options_en": [
+      "Compassion",
+      "Anger",
+      "Pride",
+      "Enthusiasm"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "जिन परिस्थितियों के बीच वीर जीवन का विकास होता है, उनकी परंपरा का निर्वाह हमें किसके चरित्र में दिखाई पड़ता है?",
+    "question_en": "In whose character do we see the continuation of the tradition of circumstances amidst which a heroic life develops?",
+    "options_hi": [
+      "लक्ष्मण के चरित्र में",
+      "राम के चरित्र में",
+      "वशिष्ठ के चरित्र में",
+      "विश्वामित्र के चरित्र में"
+    ],
+    "options_en": [
+      "In Lakshman's character",
+      "In Ram's character",
+      "In Vashishtha's character",
+      "In Vishwamitra's character"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "'सूर्य' का पर्यायवाची शब्द है :",
+    "question_en": "The synonym for 'Surya' (Sun) is:",
+    "options_hi": [
+      "कलानिधि",
+      "किरण",
+      "अर्क",
+      "देवापगा"
+    ],
+    "options_en": [
+      "Kalanidhi",
+      "Kiran",
+      "Ark",
+      "Devapaga"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'अनुरक्ति' का विलोम शब्द है :",
+    "question_en": "The antonym for 'Anurakti' (Attachment) is:",
+    "options_hi": [
+      "आसक्ति",
+      "विरक्ति",
+      "मुक्ति",
+      "प्रेम"
+    ],
+    "options_en": [
+      "Aasakti",
+      "Vibhakti",
+      "Mukti",
+      "Prem"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से बेमेल शब्द-युग्म छाँटिए :",
+    "question_en": "Find the mismatched word-pair from the following:",
+    "options_hi": [
+      "कटक - सोना",
+      "तरणि - सूर्य",
+      "प्रतीप - विपरीत",
+      "लक्ष - उद्देश्य"
+    ],
+    "options_en": [
+      "Katak - Sona",
+      "Tarani - Surya",
+      "Prateep - Vipreet",
+      "Laksh - Uddeshya"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "बेमेल विलोमार्थक शब्द छाँटिए :",
+    "question_en": "Find the mismatched antonym pair:",
+    "options_hi": [
+      "ग्रस्त - मुक्त",
+      "देव - दानव",
+      "नूतन - नवीन",
+      "अवनत - उन्नत"
+    ],
+    "options_en": [
+      "Grast - Mukt",
+      "Dev - Danav",
+      "Nutan - Naveen",
+      "Avanat - Unnat"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'जिजीविषा' से तात्पर्य है :",
+    "question_en": "'Jijivisha' means:",
+    "options_hi": [
+      "मोक्ष की इच्छा रखना",
+      "जीवन की इच्छा रखना",
+      "कुछ जानने की इच्छा रखना",
+      "क्षमा करने की क्षमता रखना"
+    ],
+    "options_en": [
+      "Desire for salvation",
+      "Desire to live",
+      "Desire to know something",
+      "Ability to forgive"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "किए गए उपकार को मानने वाला कहलाता है :",
+    "question_en": "One who acknowledges a favor done is called:",
+    "options_hi": [
+      "उपकारी",
+      "कृतज्ञ",
+      "आदरणीय",
+      "कृतघ्न"
+    ],
+    "options_en": [
+      "Upkari",
+      "Kritagya",
+      "Aadarneeya",
+      "Kritaghna"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "'पृथ्वी' का पर्यायवाची शब्द है :",
+    "question_en": "The synonym for 'Prithvi' (Earth) is:",
+    "options_hi": [
+      "उर्वी",
+      "तनया",
+      "अर्कजा",
+      "नंदिनी"
+    ],
+    "options_en": [
+      "Urvi",
+      "Tanaya",
+      "Arkaja",
+      "Nandini"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "'आगामी' का विलोम शब्द है :",
+    "question_en": "The antonym for 'Aagami' (Upcoming) is:",
+    "options_hi": [
+      "अगला",
+      "अधिक",
+      "विगत",
+      "आने वाला"
+    ],
+    "options_en": [
+      "Agla",
+      "Adhik",
+      "Vigat",
+      "Aane wala"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'अल्पज्ञ' का विलोम शब्द है :",
+    "question_en": "The antonym for 'Alpagya' (Knowing little) is:",
+    "options_hi": [
+      "वाचाल",
+      "क्रोधी",
+      "बहुज्ञ",
+      "मन्दबुद्धि"
+    ],
+    "options_en": [
+      "Vachal",
+      "Krodhi",
+      "Bahugya",
+      "Mandbuddhi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'इच्छा' का पर्यायवाची शब्द नहीं है:",
+    "question_en": "Which is not a synonym for 'Ichha' (Wish):",
+    "options_hi": [
+      "ईहा",
+      "वांछा",
+      "ईप्सा",
+      "उल्लास"
+    ],
+    "options_en": [
+      "Iha",
+      "Vanchha",
+      "Ipsa",
+      "Ullas"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "'ईंट से ईट बजाना' मुहावरें का अर्थ है :",
+    "question_en": "The meaning of the idiom 'Eent se eent bajana' is:",
+    "options_hi": [
+      "नष्ट कर देना",
+      "वीरगति पाना",
+      "नियम के विरुद्ध कार्य करना",
+      "घर तोड़ देना"
+    ],
+    "options_en": [
+      "To destroy",
+      "To die a martyr's death",
+      "To act against the rules",
+      "To break a house"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "'प्रतिफल' में कौन-सा समास है ?",
+    "question_en": "Which samas (compound) is in 'Pratiphal'?",
+    "options_hi": [
+      "कर्मधारय समास",
+      "अव्ययीभाव समास",
+      "तत्पुरुष समास",
+      "बहुव्रीहि समास"
+    ],
+    "options_en": [
+      "Karmadharaya samas",
+      "Avyayibhav samas",
+      "Tatpurush samas",
+      "Bahuvrihi samas"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से शुद्ध शब्द छाँटिए :",
+    "question_en": "Find the correctly spelled word from the following:",
+    "options_hi": [
+      "वाल्मिकी",
+      "वाल्मीकि",
+      "बाल्मीक",
+      "वाल्मीक"
+    ],
+    "options_en": [
+      "Valmiki (incorrect)",
+      "Valmiki (correct)",
+      "Balmik (incorrect)",
+      "Valmik (incorrect)"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से शुद्ध वर्तनी छाँटिए :",
+    "question_en": "Find the correct spelling from the following:",
+    "options_hi": [
+      "आर्शीवाद",
+      "आशीवार्द",
+      "अशीवाद",
+      "आशीर्वाद"
+    ],
+    "options_en": [
+      "Aarshiwad (incorrect)",
+      "Aashiward (incorrect)",
+      "Aashiwad (incorrect)",
+      "Aashirwad (correct)"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "'भव' का अनेकार्थक शब्द नहीं है:",
+    "question_en": "Which is not a polysemous meaning of 'Bhav':",
+    "options_hi": [
+      "कुशल",
+      "महादेव",
+      "संसार",
+      "सम्मान"
+    ],
+    "options_en": [
+      "Kushal (Well-being)",
+      "Mahadev (Shiva)",
+      "Sansaar (World)",
+      "Sammaan (Respect)"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "'जिसके बिना काम न चल सके' वह शब्द है :",
+    "question_en": "The word for 'that without which work cannot proceed' is:",
+    "options_hi": [
+      "आवश्यक",
+      "अनमोल",
+      "अपरिहार्य",
+      "अनिर्वचनीय"
+    ],
+    "options_en": [
+      "Aavashyak (Necessary)",
+      "Anmol (Priceless)",
+      "Apariharya (Indispensable)",
+      "Anirvachaniya (Indescribable)"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से शुद्ध वाक्य छाँटिए :",
+    "question_en": "Find the correct sentence from the following:",
+    "options_hi": [
+      "ईश्वर के अनेकों रूप हैं",
+      "मैं अगले साल यहाँ पढ़ता था",
+      "बाज़ार में भारी-भरकम भीड़ जमा थी",
+      "मुझे उपर्युक्त शर्तें स्वीकार हैं"
+    ],
+    "options_en": [
+      "God has innumerable forms (grammatically incorrect 'aneko')",
+      "I used to study here next year (tense mismatch)",
+      "There was a massive-heavy crowd gathered in the market (redundant)",
+      "I accept the above-mentioned conditions (correct)"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "'वामांगी' का पर्यायवाची शब्द है :",
+    "question_en": "The synonym for 'Vamangi' is:",
+    "options_hi": [
+      "पत्नी",
+      "पृथ्वी",
+      "मयूख",
+      "नदी"
+    ],
+    "options_en": [
+      "Patni (Wife)",
+      "Prithvi (Earth)",
+      "Mayukh (Ray)",
+      "Nadi (River)"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "'किसी गलती पर दुःखी होने' को कहते हैं :",
+    "question_en": "'To be sad about a mistake' is called:",
+    "options_hi": [
+      "क्लेश",
+      "पीड़ा",
+      "खेद",
+      "शोक"
+    ],
+    "options_en": [
+      "Klesh (Anguish)",
+      "Peeda (Pain)",
+      "Khed (Regret)",
+      "Shok (Grief)"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'अमिय' का पर्यायवाची शब्द है :",
+    "question_en": "The synonym for 'Amiy' is:",
+    "options_hi": [
+      "अमृत",
+      "गंगा",
+      "अग्नि",
+      "विष्णु"
+    ],
+    "options_en": [
+      "Amrit (Nectar)",
+      "Ganga (Ganges)",
+      "Agni (Fire)",
+      "Vishnu"
+    ],
+    "correct_option_index": 0
+  }
+]

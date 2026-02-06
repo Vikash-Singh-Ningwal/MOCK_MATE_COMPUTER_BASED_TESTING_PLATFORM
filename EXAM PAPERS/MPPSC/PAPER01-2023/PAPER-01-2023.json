@@ -1,0 +1,1703 @@
+[
+  
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा कृषि पद्धतियों का सही क्रम है ?",
+    "question_en": "Which of the following is the correct order of agricultural practices?",
+    "options_hi": [
+      "मिट्टी तैयार करना - सिंचाई - बुआई - कटाई",
+      "मिट्टी तैयार करना - बुआई - सिंचाई - कटाई",
+      "बुआई - कटाई - सिंचाई - मिट्टी तैयार करना",
+      "मिट्टी तैयार करना - सिंचाई - कटाई - बुआई"
+    ],
+    "options_en": [
+      "Soil preparation - Irrigation - Sowing - Harvesting",
+      "Soil preparation - Sowing - Irrigation - Harvesting",
+      "Sowing - Harvesting - Irrigation - Soil preparation",
+      "Soil preparation - Irrigation - Harvesting - Sowing"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "वर्ष 2024 को अंतर्राष्ट्रीय कैमेलिड (उष्ट्रगण) वर्ष किसने घोषित किया ?",
+    "question_en": "Who declared the year 2024 as International Year of Camelids?",
+    "options_hi": [
+      "यू.एन. (UN)",
+      "यूनेस्को (UNESCO)",
+      "डब्ल्यू.एच.ओ. (WHO)",
+      "सं.रा. अमेरिका (USA)"
+    ],
+    "options_en": [
+      "UN",
+      "UNESCO",
+      "WHO",
+      "USA"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा भारत का विश्व स्तर पर स्वीकृत राष्ट्रीय 'हॉटस्पाट' नहीं है ?",
+    "question_en": "Which among the following is not a globally accepted National 'hot spot' of India?",
+    "options_hi": [
+      "हिमालय",
+      "नारो हिल्स",
+      "सुंडालैंड",
+      "पश्चिमी घाट"
+    ],
+    "options_en": [
+      "Himalayas",
+      "Naro Hills",
+      "Sundaland",
+      "Western Ghats"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "सूर्य के व्यापक अध्ययन के लिए निम्नलिखित में से कौन-सा इसरो का हाल का वैज्ञानिक मिशन है :",
+    "question_en": "Which among the following is a recent scientific mission of ISRO for comprehensive study of the Sun?",
+    "options_hi": [
+      "आदित्य-एल 1",
+      "भास्कर-एल 2",
+      "सोलर मिशन-एल 1",
+      "सोलर आर्बिटर"
+    ],
+    "options_en": [
+      "Aditya-L1",
+      "Bhaskara-L2",
+      "Solar Mission-L1",
+      "Solar Orbiter"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा भारत सरकार का राष्ट्रीय पोषण कार्यक्रम नहीं है ?",
+    "question_en": "Which of the following is not a National Nutrition Programme of the Government of India?",
+    "options_hi": [
+      "राष्ट्रीय आयोडीन अल्पता विकार नियंत्रण कार्यक्रम",
+      "फ्लोरोसिस की रोकथाम और नियंत्रण के लिए राष्ट्रीय कार्यक्रम",
+      "एनीमिया नियंत्रण के लिए राष्ट्रीय आयरन प्लस पहल",
+      "राष्ट्रीय मौखिक स्वास्थ्य कार्यक्रम"
+    ],
+    "options_en": [
+      "National Iodine Deficiency Disorders Control Programme",
+      "National Programme for Prevention and Control of Fluorosis",
+      "National Iron Plus Initiative for Anaemia Control",
+      "National Oral Health Programme"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा सबसे स्थिर पारिस्थितिकी तंत्र है ?",
+    "question_en": "Which among the following is the most stable ecosystem?",
+    "options_hi": [
+      "वन पारिस्थितिकी तंत्र",
+      "रेगिस्तानी पारिस्थिकी-तंत्र",
+      "समुद्री पारिस्थितिकी-तंत्र",
+      "घास का मैदान पारिस्थितिकी-तंत्र"
+    ],
+    "options_en": [
+      "Forest ecosystem",
+      "Desert ecosystem",
+      "Marine ecosystem",
+      "Grassland ecosystem"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा जैव-निम्नीकरणीय (बायोडिग्रेडेबल) प्रदूषक नहीं है ?",
+    "question_en": "Which among the following is not a biodegradable pollutant?",
+    "options_hi": [
+      "कागज़",
+      "भोजन एवं पादप अपशिष्ट",
+      "कीटनाशक",
+      "काष्ठ एवं सेलूलोज़"
+    ],
+    "options_en": [
+      "Paper",
+      "Food and Plant waste",
+      "Insecticides",
+      "Wood and Cellulose"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह निम्न से उच्च पोषण (ट्रॉफिक) स्तर पर जाने से कम होता है। इसे निम्नलिखित द्वारा समझा जा सकता है :",
+    "question_en": "In an ecosystem, flow of energy declines as it passes from lower to higher trophic level. This is explained by the following:",
+    "options_hi": [
+      "ऊष्मागतिकी (थर्मोडायनेमिक्स) के प्रथम नियम द्वारा",
+      "ऊष्मागतिकी (थर्मोडायनेमिक्स) के द्वितीय नियम द्वारा",
+      "न्यूटन के द्वितीय नियम द्वारा",
+      "न्यूटन के तृतीय नियम द्वारा"
+    ],
+    "options_en": [
+      "First law of thermodynamics",
+      "Second law of thermodynamics",
+      "Newton's second law",
+      "Newton's third law"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "ऑस्टियोक्लास्ट निम्नलिखित में से किससे सम्बन्धित हैं?",
+    "question_en": "Osteoclasts are associated with which of the following?",
+    "options_hi": [
+      "हड्डी का निर्माण",
+      "बेसल लैमिना स्रावण",
+      "हड्डी टूटना",
+      "मांसपेशियों का पुनरुद्भवन (रीजनरेशन)"
+    ],
+    "options_en": [
+      "Bone formation",
+      "Basal lamina secretion",
+      "Bone fracture",
+      "Muscle regeneration"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "ग्रीन मफलर किस प्रदूषण से सम्बन्धित है ?",
+    "question_en": "Green Muffler is related to pollution of:",
+    "options_hi": [
+      "मृदा",
+      "वायु",
+      "ध्वनि",
+      "जल"
+    ],
+    "options_en": [
+      "Soil",
+      "Air",
+      "Noise",
+      "Water"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "मध्य प्रदेश राज्य नीति एवं योजना आयोग रिपोर्ट (2023) के अनुसार मध्य प्रदेश के किस जिले में बहुआयामी गरीबी में सबसे अधिक सुधार देखा गया ?",
+    "question_en": "Which district in Madhya Pradesh showed highest improvement in the multi-dimensional poverty as per the report of Madhya Pradesh State Policy and Planning Commission (2023)?",
+    "options_hi": [
+      "बड़वानी",
+      "खण्डवा",
+      "बालाघाट",
+      "अलीराजपुर"
+    ],
+    "options_en": [
+      "Barwani",
+      "Khandwa",
+      "Balaghat",
+      "Alirajpur"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "व्यवसाय सुधार कार्य योजना (बिज़नेस रिफॉर्म एक्शन प्लान) 2020 के लिए राज्यों के मूल्यांकन में मध्य प्रदेश का प्रदर्शन कैसा रहा ?",
+    "question_en": "How did Madhya Pradesh perform in the assessment of states for Business Reforms Action Plan 2020?",
+    "options_hi": [
+      "मध्य प्रदेश को 'अंडर अचीवर्स' का दर्जा दिया गया था",
+      "मध्य प्रदेश को 'टॉप अचीवर्स' का दर्जा दिया गया था",
+      "मूल्यांकन में मध्य प्रदेश को रेटिंग नहीं दी गई",
+      "मध्य प्रदेश को 'अचीवर्स' का दर्जा दिया गया"
+    ],
+    "options_en": [
+      "Madhya Pradesh was rated as 'Under Achievers'.",
+      "Madhya Pradesh was rated as 'Top Achievers'.",
+      "Madhya Pradesh was not rated in the assessment.",
+      "Madhya Pradesh was rated as 'Achievers'."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "मध्य प्रदेश के निम्नलिखित जिलों को 2011 की जनगणना के अनुसार उनकी दशकीय जनसंख्या वृद्धि दर (2001- 2011) के क्रम में निम्नतम से उच्चतम तक व्यवस्थित करें :",
+    "question_en": "Arrange the following districts of Madhya Pradesh in order of their decennial population growth rate during 2001-2011; as per the 2011 census. Arrange from the lowest to highest.",
+    "options_hi": [
+      "अनूपपुर, मंदसौर, बैतूल, छिंदवाड़ा",
+      "अनूपपुर, बैतूल, छिंदवाड़ा, मंदसौर",
+      "बैतूल, छिंदवाड़ा, मंदसौर, अनूपपुर",
+      "बैतूल, अनूपपुर, छिंदवाड़ा, मंदसौर"
+    ],
+    "options_en": [
+      "Anuppur, Mandsaur, Betul, Chhindwara",
+      "Anuppur, Betul, Chhindwara, Mandsaur",
+      "Betul, Chhindwara, Mandsaur, Anuppur",
+      "Betul, Anuppur, Chhindwara, Mandsaur"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "टंट्या मामा आर्थिक कल्याण योजना का उद्देश्य क्या है ?",
+    "question_en": "What is the objective of Tantya Mama Economic Welfare Scheme (New Scheme)?",
+    "options_hi": [
+      "आदिवासी महिलाओं को निःशुल्क शिक्षा प्रदान करना",
+      "अनूसूचित जनजाति के बीपीएल श्रेणी के लाभार्थियों को नए उद्योगों / व्यवसायों के लिए कम लागत वाले उपकरण और कार्यशील पूँजी की आपूर्ति करना",
+      "आदिवासी क्षेत्रों में बुनियादी ढाँचे के विकास का वित्तपोषण करना",
+      "आदिवासी युवाओं के बीच खेलों को बढ़ावा देना"
+    ],
+    "options_en": [
+      "Providing free education to Tribal women",
+      "Supplying low-cost equipment and working capital for new industries/business to BPL category beneficiaries of Scheduled Tribes",
+      "Funding infrastructure development in Tribal regions",
+      "Promoting sports among Tribal youth"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "मध्य प्रदेश के किस शहर में ट्रांसफॉर्मर और संबद्ध उत्पादों के उत्पादन के लिए समर्पित क्लस्टर है ?",
+    "question_en": "Which city in Madhya Pradesh has a cluster dedicated to the production of transformers and allied products?",
+    "options_hi": [
+      "इंदौर",
+      "ग्वालियर",
+      "भोपाल",
+      "जबलपुर"
+    ],
+    "options_en": [
+      "Indore",
+      "Gwalior",
+      "Bhopal",
+      "Jabalpur"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "उच्च न्यायालय के न्यायाधीशों की अधिकतम आयु सीमा कितनी है ?",
+    "question_en": "What is the maximum age limit of a High Court judge?",
+    "options_hi": [
+      "60 वर्ष",
+      "62 वर्ष",
+      "58 वर्ष",
+      "56 वर्ष"
+    ],
+    "options_en": [
+      "60 years",
+      "62 years",
+      "58 years",
+      "56 years"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "भारतीय संविधान के किस संशोधन द्वारा नगरपालिका कानूनों को अद्यतन बना दिया गया है ?",
+    "question_en": "By which Amendment of the Indian Constitution have the municipal laws been updated?",
+    "options_hi": [
+      "71",
+      "72",
+      "74",
+      "73"
+    ],
+    "options_en": [
+      "71",
+      "72",
+      "74",
+      "73"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भारत में स्थानीय स्वशासन के जनक कौन थे ?",
+    "question_en": "Who was the Father of Local Self-Government in India?",
+    "options_hi": [
+      "लॉर्ड डलहौजी",
+      "लॉर्ड माउंटबैटन",
+      "लॉर्ड मैकॉले",
+      "लॉर्ड रिपन"
+    ],
+    "options_en": [
+      "Lord Dalhousie",
+      "Lord Mountbatten",
+      "Lord Macaulay",
+      "Lord Ripon"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "कोई विधेयक धन विधेयक है या नहीं, इसका निर्णय राज्य में कौन करता है ?",
+    "question_en": "Who decides whether a bill is a money bill or not in the State?",
+    "options_hi": [
+      "मुख्य मंत्री",
+      "राज्यपाल",
+      "विधान सभा का अध्यक्ष",
+      "विधि मंत्री"
+    ],
+    "options_en": [
+      "Chief Minister",
+      "Governor",
+      "Speaker of the Vidhan Sabha",
+      "Law Minister"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन मध्य प्रदेश विधान सभा के प्रथम अध्यक्ष थे ?",
+    "question_en": "Who amongst the following was the first Speaker of the Madhya Pradesh Legislative Assembly?",
+    "options_hi": [
+      "भगवंतराव मंडलोई",
+      "द्वारका प्रसाद मिश्रा",
+      "शंकर दयाल शर्मा",
+      "पंडित कुंजीलाल दुबे"
+    ],
+    "options_en": [
+      "Bhagwantrao Mandloi",
+      "Dwarka Prasad Mishra",
+      "Shankar Dayal Sharma",
+      "Pandit Kunjilal Dubey"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में भारतीय संविधान का कौन-सा अनुच्छेद लोक सेवा आयोगों के व्यय से संबंधित है ?",
+    "question_en": "Which of the following Article of the Constitution of India is related to expenses of Public Service Commissions?",
+    "options_hi": [
+      "अनुच्छेद 320",
+      "अनुच्छेद 321",
+      "अनुच्छेद 322",
+      "अनुच्छेद 323"
+    ],
+    "options_en": [
+      "Article 320",
+      "Article 321",
+      "Article 322",
+      "Article 323"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'योजना आयोग' के स्थान पर एक नई संस्था 'नीति आयोग' का गठन कब किया गया ?",
+    "question_en": "When was new institution NITI Aayog constituted in place of 'Planning Commission'?",
+    "options_hi": [
+      "31 मार्च, 2014",
+      "15 मार्च, 1950",
+      "1 जनवरी, 2015",
+      "11 जनवरी, 2016"
+    ],
+    "options_en": [
+      "$31^{st}$ March, 2014",
+      "$15^{th}$ March, 1950",
+      "$1^{st}$ January, 2015",
+      "$11^{th}$ January, 2016"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "बारहवें वित्त आयोग के अध्यक्ष कौन थे ?",
+    "question_en": "Who was the Chairman of the Twelfth Finance Commission?",
+    "options_hi": [
+      "ए.एम. खुसरो",
+      "डॉ. सी. रंगराजन",
+      "डॉ. विजय केलकर",
+      "वाई.वी. रेड्डी"
+    ],
+    "options_en": [
+      "A.M. Khusro",
+      "Dr. C. Rangarajan",
+      "Dr. Vijay Kelkar",
+      "Y.V. Reddy"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "खाद्य संरक्षण आयोग निम्नलिखित में से किस अधिनियम के अन्तर्गत स्थापित एक वैधानिक निकाय है ?",
+    "question_en": "The Food Preservation Commission is a statutory body established under which of the following Acts?",
+    "options_hi": [
+      "राष्ट्रीय खाद्य सुरक्षा अधिनियम, 2013",
+      "खाद्य सुरक्षा अधिनियम, 2011",
+      "खाद्य सुरक्षा और मानक अधिनियम, 2006",
+      "खाद्य सुरक्षा एवं मानक अधिनियम, 2011"
+    ],
+    "options_en": [
+      "National Food Security Act, 2013",
+      "Food Security Act, 2011",
+      "Food Safety and Standards Act, 2006",
+      "Food Safety and Standards Act, 2011"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "राष्ट्रीय महिला आयोग के कार्य निर्दिष्ट हैं :",
+    "question_en": "The functions of the National Commission for Women are specified in:",
+    "options_hi": [
+      "राष्ट्रीय महिला आयोग अधिनियम, 1990 की धारा 12 में",
+      "राष्ट्रीय महिला आयोग अधिनियम, 1990 की धारा 15 में",
+      "राष्ट्रीय महिला आयोग अधिनियम, 1990 की धारा 10 में",
+      "राष्ट्रीय महिला आयोग अधिनियम, 1990 की धारा 3 में"
+    ],
+    "options_en": [
+      "Section 12 of the National Commission for Women Act, 1990",
+      "Section 15 of the National Commission for Women Act, 1990",
+      "Section 10 of the National Commission for Women Act, 1990",
+      "Section 3 of the National Commission for Women Act, 1990"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा अधिकार राष्ट्रीय मानवाधिकार आयोग के दायरे में नहीं आता है ?",
+    "question_en": "Which of the following rights is not under the purview of the National Human Rights Commission?",
+    "options_hi": [
+      "समानता से संबंधित अधिकार",
+      "शिक्षा से संबंधित अधिकार",
+      "जीवन से सम्बन्धित अधिकार",
+      "स्वतंत्रता से सम्बन्धित अधिकार"
+    ],
+    "options_en": [
+      "Rights relating to equality",
+      "Rights relating to education",
+      "Rights relating to life",
+      "Rights relating to liberty"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "राष्ट्रीय अनुसूचित जनजाति आयोग के अध्यक्ष और उपाध्यक्ष के अतिरिक्त, सदस्यों की कुल संख्या कितनी है?",
+    "question_en": "The total number of members other than the Chairperson and Vice-Chairperson of the National Commission for Scheduled Tribes is :",
+    "options_hi": [
+      "1 सदस्य",
+      "2 सदस्य",
+      "3 सदस्य",
+      "4 सदस्य"
+    ],
+    "options_en": [
+      "1 Member",
+      "2 Members",
+      "3 Members",
+      "4 Members"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भारत के नियंत्रक एवं महालेखा परीक्षक अधिकतम कितने वर्षों के लिए अपना पद धारण कर सकते हैं ?",
+    "question_en": "The Comptroller and Auditor General of India can hold his office for a maximum period of:",
+    "options_hi": [
+      "4 वर्ष",
+      "5 वर्ष",
+      "6 वर्ष",
+      "7 वर्ष"
+    ],
+    "options_en": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "राष्ट्रीय हरित अधिकरण (NGT) का मुख्यायालय कहाँ स्थित है ?",
+    "question_en": "National Green Tribunal's (NGT) headquarters is situated at:",
+    "options_hi": [
+      "कोलकाता",
+      "नई दिल्ली",
+      "मुंबई",
+      "चेन्नई"
+    ],
+    "options_en": [
+      "Kolkata",
+      "New Delhi",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "सिविल सेवा परीक्षा की समीक्षा हेतु संघ लोक सेवा आयोग ने जुलाई 2000 में किसकी अध्यक्षता में एक समिति का गठन किया ?",
+    "question_en": "The Union Public Service Commission constituted a committee in July 2000 to review the civil services examination under the chairmanship of:",
+    "options_hi": [
+      "प्रोफेसर सुखदेव थोराट",
+      "प्रोफेसर दीपक कुमार श्रीवास्तव",
+      "प्रोफेसर एम. जगदीश कुमार",
+      "प्रोफेसर योगिन्दर कुमार अलघ"
+    ],
+    "options_en": [
+      "Professor Sukhadeo Thorat",
+      "Professor Deepak Kumar Srivastava",
+      "Professor M. Jagadesh Kumar",
+      "Professor Yoginder Kumar Alagh"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "एमेच्योर कबड्डी फेडरेशन ऑफ इंडिया (ए के एफ आई) का मुख्यालय कहाँ पर स्थित है ?",
+    "question_en": "Where is the headquarters of Amateur Kabaddi Federation of India (AKFI) located?",
+    "options_hi": [
+      "भोपाल",
+      "ग्वालियर",
+      "जयपुर",
+      "दिल्ली"
+    ],
+    "options_en": [
+      "Bhopal",
+      "Gwalior",
+      "Jaipur",
+      "Delhi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सी खिलाड़ी टोक्यो ओलंपिक 2020 में भारतीय महिला हॉकी टीम में शामिल रहीं ?",
+    "question_en": "Which of the following players were part of the Indian Women's Hockey team in Tokyo Olympics - 2020?",
+    "options_hi": [
+      "सुशीला चानू",
+      "मोनिका",
+      "वन्दना कटारिया",
+      "उपर्युक्त सभी"
+    ],
+    "options_en": [
+      "Sushila Chanu",
+      "Monika",
+      "Vandana Katariya",
+      "All of the above"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "मेजर ध्यानचंद खेल रत्न पुरस्कार 2022 किस खिलाड़ी को प्रदान किया गया ?",
+    "question_en": "Which player was awarded the Major Dhyan Chand Khel Ratna Award - 2022?",
+    "options_hi": [
+      "मनिका बत्रा",
+      "कमलेश मेहता",
+      "साथियान ज्ञानसेकरन",
+      "शरत कमल"
+    ],
+    "options_en": [
+      "Manika Batra",
+      "Kamlesh Mehta",
+      "Sathiyan Gnanasekaran",
+      "Sharath Kamal"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से किसको विज्ञान और इंजीनियरिंग के क्षेत्र का पद्म विभूषण - 2023 प्रदान किया गया ?",
+    "question_en": "Who among the following was awarded Padma Vibhushan 2023 in the field of Science and Engineering?",
+    "options_hi": [
+      "श्री एस.एम. कृष्णा",
+      "श्री दिलीप महालनाबिस",
+      "श्री श्रीनिवास वर्धन",
+      "श्री नरिन्दर सिंह कपानी"
+    ],
+    "options_en": [
+      "Shri S.M. Krishna",
+      "Shri Dilip Mahalanabis",
+      "Shri Srinivasa Varadhan",
+      "Shri Narinder Singh Kapany"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा सुमेलित नहीं है ?",
+    "question_en": "Which of the following is not correctly matched?",
+    "options_hi": [
+      "आर्यभट्ट प्रेक्षण विज्ञान शोध संस्थान - नैनीताल",
+      "रक्षा प्रबंधन महाविद्यालय – सिकंदराबाद",
+      "केन्द्रीय भारतीय भाषा संस्थान - मुम्बई",
+      "भारतीय विज्ञान संस्थान – बेंगलुरू"
+    ],
+    "options_en": [
+      "Aryabhatta Research Institute of Observational Sciences - Nainital",
+      "College of Defence Management - Secunderabad",
+      "Central Institute of Indian Languages - Mumbai",
+      "Indian Institute of Science - Bengaluru"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भारत ने अपना पहला एक दिवसीय अन्तर्राष्ट्रीय क्रिकेट मैच किस देश के साथ और किस वर्ष में खेला था ?",
+    "question_en": "India played its first One Day International cricket match with which country and in which year?",
+    "options_hi": [
+      "ऑस्ट्रेलिया - 1977",
+      "इंग्लैण्ड - 1975",
+      "न्यूज़ीलैंड - 1975",
+      "इंग्लैण्ड - 1974"
+    ],
+    "options_en": [
+      "Australia - 1977",
+      "England - 1975",
+      "New Zealand - 1975",
+      "England - 1974"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "21 जून को अन्तर्राष्ट्रीय योग दिवस के रूप में मनाया जाना किस वर्ष से प्रारम्भ हुआ ?",
+    "question_en": "From which year did the celebration of $21^{st}$ June as International Yoga Day begin?",
+    "options_hi": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "options_en": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "प्रथम भारतीय महिला सैनिक स्काई डाइवर कौन है ?",
+    "question_en": "Who is the first Indian woman soldier skydiver ?",
+    "options_hi": [
+      "शीतल महाजन राणे",
+      "मंजू",
+      "अनामिका शर्मा",
+      "श्वेता परमार"
+    ],
+    "options_en": [
+      "Shital Mahajan Rane",
+      "Manju",
+      "Anamika Sharma",
+      "Shweta Parmar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से किस उद्योगपति को 'भारत का इस्पात पुरुष' कहा जाता है ?",
+    "question_en": "From the following industrialists, who is known as the 'Steel Man of India'?",
+    "options_hi": [
+      "लक्ष्मी मित्तल",
+      "ओम प्रकाश जिंदल",
+      "जमशेद जे. ईरानी",
+      "अनिल अग्रवाल"
+    ],
+    "options_en": [
+      "Lakshmi Mittal",
+      "Om Prakash Jindal",
+      "Jamshed J. Irani",
+      "Anil Agrawal"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "सेन्ट्रल बैकिंग अवार्ड 2023 में 'गवर्नर ऑफ द ईयर' पुरस्कार किस देश के सेन्ट्रल बैंक के गवर्नर को प्रदान किया गया था ?",
+    "question_en": "'Governor of the Year' award at the Central Banking Awards 2023 was conferred upon the Governor of the central bank which country?",
+    "options_hi": [
+      "संयुक्त राज्य अमेरिका",
+      "कनाडा",
+      "इंडोनेशिया",
+      "भारत"
+    ],
+    "options_en": [
+      "United States of America",
+      "Canada",
+      "Indonesia",
+      "India"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा एक ई-प्रोक्योरमेंट पोर्टल नहीं है ?",
+    "question_en": "Which of the following is not an E-Procurement portal?",
+    "options_hi": [
+      "MP Tenders (एमपी टेन्डर्स)",
+      "GeM (जेम)",
+      "MP Online (एमपी ऑनलाइन)",
+      "MP LUN (एमपी एलयूएन)"
+    ],
+    "options_en": [
+      "MP Tenders",
+      "GeM",
+      "MP Online",
+      "MP LUN"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा इंटरनेट कनेक्शन का एक प्रकार है जो टेलीफोन लाइनों का प्रयोग करता है ?",
+    "question_en": "Which of the following is a type of Internet connection that uses telephone lines ?",
+    "options_hi": [
+      "डी एस एल",
+      "केबल",
+      "फाइबर ऑप्टिक्स",
+      "सेटेलाइट"
+    ],
+    "options_en": [
+      "DSL",
+      "Cable",
+      "Fiber Optics",
+      "Satellite"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "ई-कॉमर्स का निम्नलिखित में से कौन-सा लाभ है?",
+    "question_en": "Which of the following is an advantage of E-Commerce?",
+    "options_hi": [
+      "24/7 कार्य करने की क्षमता",
+      "सीमित पहुँच",
+      "खरीददारी के अनुभव को व्यक्तिपरक करने की अक्षमता",
+      "ऊँची परिचालन लागतें"
+    ],
+    "options_en": [
+      "Ability to operate 24/7",
+      "Limited reach",
+      "Inability to personalize the shopping experience",
+      "Higher operational costs"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा साइबर हमले का एक प्रकार है जिसमें उपयोगकर्ता को संवेदनशील सूचना को ज़ाहिर करने के लिए छल करना शामिल है ?",
+    "question_en": "Which of the following is a type of cyber attack that involves tricking users into revealing sensitive information?",
+    "options_hi": [
+      "फिशिंग हमला",
+      "SQL इंजेक्शन हमला",
+      "DOS हमला",
+      "उपर्युक्त में से कोई नहीं"
+    ],
+    "options_en": [
+      "Phishing attack",
+      "SQL Injection attack",
+      "DOS attack",
+      "None of the above"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "साइबर सुरक्षा में एक फायरवॉल का क्या उद्देश्य है ?",
+    "question_en": "What is the purpose of a firewall in cyber security?",
+    "options_hi": [
+      "एक नेटवर्क को अबाधित पहुँच की अनुमति देना",
+      "एक नेटवर्क की अनाधिकृत पहुँच को अवरुद्ध करना",
+      "एक नेटवर्क के डाटा का बैकअप तैयार करना",
+      "उपर्युक्त में से कोई नहीं"
+    ],
+    "options_en": [
+      "To allow unrestricted access to a network",
+      "To block unauthorized access to a network",
+      "To create a backup of a network's data",
+      "None of the above"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "फ्लिपकार्ट, अलीबाबा, एमाज़ॉन किसके उदाहरण हैं ?",
+    "question_en": "Flipkart, Alibaba, Amazon are examples of",
+    "options_hi": [
+      "सी 2 बी",
+      "सी 2 सी",
+      "बी 2 सी",
+      "बी 2 बी"
+    ],
+    "options_en": [
+      "C2B",
+      "C2C",
+      "B2C",
+      "B2B"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "वह प्रक्रिया है जिसके द्वारा रिसीवर संदेश के स्रोत के द्वारा प्रयोग किए गए संकेतों की व्याख्या करता है।",
+    "question_en": "is the process by which the receiver interprets the symbols used by the source of the message.",
+    "options_hi": [
+      "सूचीकरण",
+      "विसंकेतन",
+      "संकेतीकरण",
+      "ध्यान से सुनना"
+    ],
+    "options_en": [
+      "Listing",
+      "Decoding",
+      "Encoding",
+      "Listening"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा वेब ब्राउज़र नहीं है ?",
+    "question_en": "Which of the following is not a web browser?",
+    "options_hi": [
+      "इंटरनेट एक्सप्लोरर",
+      "मोज़िला फ़ायरफ़ॉक्स",
+      "गूगल क्रोम",
+      "याहू"
+    ],
+    "options_en": [
+      "Internet Explorer",
+      "Mozilla Firefox",
+      "Google Chrome",
+      "Yahoo"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "ChatGPT का विकास किसके द्वारा किया गया ?",
+    "question_en": "ChatGPT was developed by",
+    "options_hi": [
+      "गूगल",
+      "ओपन ए आई",
+      "एप्पल",
+      "माइक्रोसॉफ्ट"
+    ],
+    "options_en": [
+      "Google",
+      "OpenAI",
+      "Apple",
+      "Microsoft"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "दूसरी पीढ़ी के कम्प्यूटरों में कौन-से इलेक्ट्रॉनिक उपकरण का प्रयोग किया गया था ?",
+    "question_en": "Which electronic device was used in Second Generation Computers?",
+    "options_hi": [
+      "निर्वात नलियाँ (वेक्यूम ट्यूब)",
+      "वी एल एस आई",
+      "ट्रांज़िस्टर",
+      "उपर्युक्त में से कोई नहीं"
+    ],
+    "options_en": [
+      "Vacuum tubes",
+      "VLSI",
+      "Transistors",
+      "None of the above"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "टाटीपाका तेल रिफाइनरी कहाँ स्थित है ?",
+    "question_en": "Where is Tatipaka oil refinery located?",
+    "options_hi": [
+      "तमिलनाडु",
+      "गुजरात",
+      "आंध्र प्रदेश",
+      "महाराष्ट्र"
+    ],
+    "options_en": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh",
+      "Maharashtra"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित सागरों में से कौन-सा 'गाज़ा स्ट्रिप' के पास स्थित है ?",
+    "question_en": "Which of the following seas is near the 'Gaza Strip'?",
+    "options_hi": [
+      "भूमध्य सागर",
+      "लाल सागर",
+      "काला सागर",
+      "कैस्पियन सागर"
+    ],
+    "options_en": [
+      "Mediterranean Sea",
+      "Red Sea",
+      "Black Sea",
+      "Caspian Sea"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित का सही मिलान कीजिए : \nस्थान \t राज्य \n1. बैलाडिला \t a. ओडिशा \n2. केन्दुझर \t b. कर्नाटक \n3. बालाघाट \t c. छत्तीसगढ़ \n4. कुद्रेमुख \t d. मध्य प्रदेश",
+    "question_en": "Match the following: \nPlace \t State \n1. Bailadila \t a. Odisha \n2. Kendujhar \t b. Karnataka \n3. Balaghat \t c. Chhattisgarh \n4. Kudremukh \t d. Madhya Pradesh",
+    "options_hi": [
+      "1-a, 2-b, 3-c, 4-d",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-d, 4-b"
+    ],
+    "options_en": [
+      "1-a, 2-b, 3-c, 4-d",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-d, 4-b"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से पटल विरूपण प्रक्रिया के अन्तर्गत कौन-सी प्रक्रिया नहीं आती है ?",
+    "question_en": "Which of the following processes do not come under diastrophism?",
+    "options_hi": [
+      "पर्वतनी",
+      "विषमांगी",
+      "भूकम्प",
+      "प्लेट विवर्तनिकी"
+    ],
+    "options_en": [
+      "Orogenic",
+      "Heterogenic",
+      "Earthquakes",
+      "Plate Tectonics"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "राज्यों के अधिकतम से न्यूनतम साक्षरतानुसार सही क्रम को इंगित कीजिए । (भारतीय जनगणना 2011 अनुसार)",
+    "question_en": "Identify the correct sequence of states according to the highest to lowest literacy rate. (According to Census of India, 2011)",
+    "options_hi": [
+      "केरल, मिजोरम, त्रिपुरा, गोवा",
+      "केरल, त्रिपुरा, मिजोरम, गोवा",
+      "केरल, गोवा, त्रिपुरा, मिजोरम",
+      "केरल, मिजोरम, गोवा, त्रिपुरा"
+    ],
+    "options_en": [
+      "Kerala, Mizoram, Tripura, Goa",
+      "Kerala, Tripura, Mizoram, Goa",
+      "Kerala, Goa, Tripura, Mizoram",
+      "Kerala, Mizoram, Goa, Tripura"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सी वायुमण्डलीय परत जलवायु और मौसम में सभी परिवर्तनों के लिए जानी जाती है ?",
+    "question_en": "Which of the following atmospheric layers is known for all changes in climate and weather?",
+    "options_hi": [
+      "बाह्य वायुमंडल",
+      "समतापमंडल",
+      "मध्यमंडल",
+      "क्षोभमंडल"
+    ],
+    "options_en": [
+      "Thermosphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Troposphere"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "नासिक जिले में त्रिंबक पहाड़ियों से निकलने वाली इनमें से कौन-सी नदी है ?",
+    "question_en": "Which of the following rivers rises from the Trimbak Hills in Nasik district?",
+    "options_hi": [
+      "शेत्रुजी",
+      "भद्रा",
+      "ढाढर",
+      "वैतरणा"
+    ],
+    "options_en": [
+      "Shetrunji",
+      "Bhadra",
+      "Dhadhar",
+      "Vaitarna"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित युग्मों का मिलान करते हुए सही कूट की पहचान कीजिए: \nजैव आरक्षित क्षेत्र \t राज्य \n1. नोकरेक \t a. ओडिशा \n2. मानस \t b. मेघालय \n3. सिमलीपाल \t c. आंध्र प्रदेश \n4. शेषाचलम \t d. असम",
+    "question_en": "Match the following pairs and identify the correct code: \nBiosphere Reserve Area \t State \n1. Nokrek \t a. Odisha \n2. Manas \t b. Meghalaya \n3. Similipal \t c. Andhra Pradesh \n4. Seshachalam \t d. Assam",
+    "options_hi": [
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-d, 3-c, 4-a",
+      "1-d, 2-b, 3-a, 4-c"
+    ],
+    "options_en": [
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-d, 3-c, 4-a",
+      "1-d, 2-b, 3-a, 4-c"
+    ],
+    "correct_option_index": null
+  },
+  {
+    "question_hi": "भूमिगत ताप के उपयोग का प्रथम सफल प्रयास कहाँ किया गया ?",
+    "question_en": "The first successful attempt to tap underground heat was made in",
+    "options_hi": [
+      "बोइज़े, इडाहो (यू.एस.ए.)",
+      "तेल अवीव, इज़राइल",
+      "टोक्यो, जापान",
+      "केनबरा, ऑस्ट्रेलिया"
+    ],
+    "options_en": [
+      "Boise, Idaho (USA)",
+      "Tel Aviv, Israel",
+      "Tokyo, Japan",
+      "Canberra, Australia"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से किसे 'मोलेसिस बेसिन' भी कहा जाता है ?",
+    "question_en": "Which of the following is also called 'Molassis Basin'?",
+    "options_hi": [
+      "मणिपुर",
+      "त्रिपुरा",
+      "मिजोरम",
+      "नागालैण्ड"
+    ],
+    "options_en": [
+      "Manipur",
+      "Tripura",
+      "Mizoram",
+      "Nagaland"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "किस अधिवेशन में कांग्रेस नरम एवं गरम दल में विभाजित हो गई थी ?",
+    "question_en": "In which session was the Congress divided into Moderates and Extremists?",
+    "options_hi": [
+      "बम्बई",
+      "सूरत",
+      "कलकत्ता",
+      "नागपुर"
+    ],
+    "options_en": [
+      "Bombay",
+      "Surat",
+      "Calcutta",
+      "Nagpur"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "वर्ष 1948 में बुंदेलखण्ड एवं बघेलखण्ड को जोड़कर कौन-सा प्रदेश आस्तित्व में आया था ?",
+    "question_en": "In the year 1948, which state came into existence after the merger of Bundelkhand and Baghelkhand?",
+    "options_hi": [
+      "मालवा प्रदेश",
+      "विंध्य प्रदेश",
+      "बघेल प्रदेश",
+      "मध्य प्रदेश"
+    ],
+    "options_en": [
+      "Malwa Pradesh",
+      "Vindhya Pradesh",
+      "Baghel Pradesh",
+      "Madhya Pradesh"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "निम्नलिखित में से कितनी रियासतें 15 फरवरी 1948 को 'सौराष्ट्र संघ' में मिलाई गईं थीं ?",
+    "question_en": "How many principalities were merged in the 'Saurashtra Sangh' on 15th February, 1948?",
+    "options_hi": [
+      "220",
+      "221",
+      "222",
+      "223"
+    ],
+    "options_en": [
+      "220",
+      "221",
+      "222",
+      "223"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से किसके द्वारा प्रथम बारे 'पाकिस्तान' शब्द का प्रयोग किया गया था ?",
+    "question_en": "Who among the following first coined the word 'Pakistan'?",
+    "options_hi": [
+      "मोहम्मद अली जिन्ना",
+      "चौधरी रहमत अली",
+      "सैयद अहमद खान",
+      "मोहम्मद अशफ़ाक़ खान"
+    ],
+    "options_en": [
+      "Mohammad Ali Jinnah",
+      "Choudhry Rehmat Ali",
+      "Syed Ahmad Khan",
+      "Mohammad Ashfaq Khan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "राष्ट्रीय आन्दोलन के प्रथम चरण में कांग्रेस की निम्न में से कौन-सी माँग नहीं थी ?",
+    "question_en": "In the first stage of the National Movement, which one among the following was not the demand of the Congress?",
+    "options_hi": [
+      "लेजिस्लेटिव कौंसिलों के सदस्यों की संख्या में वृद्धि",
+      "कौंसिलों में जनप्रतिनिधियों की संख्या में वृद्धि",
+      "कार्यपालिका एवं न्यायपालिका का पृथक्करण",
+      "कार्यपालिका एवं न्यायपालिका का एकीकरण"
+    ],
+    "options_en": [
+      "To increase the number of members of the Legislative Councils",
+      "To increase the number of members of the public representatives in the Councils",
+      "Separation of Executive and Judiciary",
+      "Unification of Executive and Judiciary"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से किसके द्वारा महाराष्ट्र में 'गणेशोत्सव' प्रारम्भ किया गया था ?",
+    "question_en": "Who among the following started 'Ganeshotsav' in Maharashtra?",
+    "options_hi": [
+      "बिपिन चंद्र पाल",
+      "गोविन्द रानाडे",
+      "लाला लाजपत राय",
+      "बाल गंगाधर तिलक"
+    ],
+    "options_en": [
+      "Bipin Chandra Pal",
+      "Govind Ranade",
+      "Lala Lajpat Rai",
+      "Bal Gangadhar Tilak"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से किस वर्ष में नादिर शाह ने भारत पर आक्रमण किया था ?",
+    "question_en": "In which of the following year did Nadir Shah invade India?",
+    "options_hi": [
+      "1736 ई.",
+      "1737 ई.",
+      "1738 ई.",
+      "1739 ई."
+    ],
+    "options_en": [
+      "1736 A.D.",
+      "1737 A.D.",
+      "1738 A.D.",
+      "1739 A.D."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "'आर्यमंजूश्रीमूलकल्प' निम्न में से किससे संबंधित है ?",
+    "question_en": "'Aryamanjushrimulakalpa' is related to which of the following?",
+    "options_hi": [
+      "महायान",
+      "हीनयान",
+      "थेरवाद",
+      "वज्रयान"
+    ],
+    "options_en": [
+      "Mahayana",
+      "Hinayana",
+      "Theravada",
+      "Vajrayana"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "निम्नलिखित में से किस वर्ष में लॉर्ड विलियम बैंटिंक द्वारा प्रेस स्वतंत्रता प्रदान की गई ?",
+    "question_en": "In which of the following year was the freedom of press given by Lord William Bentinck?",
+    "options_hi": [
+      "1832 ई.",
+      "1833 ई.",
+      "1834 ई.",
+      "1835 ई."
+    ],
+    "options_en": [
+      "1832 A.D.",
+      "1833 A.D.",
+      "1834 A.D.",
+      "1835 A.D."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "शकों पर विजयोपरांत चन्द्रगुप्त II ने निम्न में से किस धातु के सिक्के प्रचलित किए ?",
+    "question_en": "After conquering the Shakas, which of the following metal coins were introduced by Chandragupta II?",
+    "options_hi": [
+      "स्वर्ण",
+      "चाँदी",
+      "ताँबा",
+      "काँसा"
+    ],
+    "options_en": [
+      "Gold",
+      "Silver",
+      "Copper",
+      "Bronze"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "वर्ष 2021-22 में भारत में ताँबा उत्पादन में मध्य प्रदेश किस स्थान पर था ?",
+    "question_en": "Which position did Madhya Pradesh hold in copper production in India during the year 2021-22?",
+    "options_hi": [
+      "चतुर्थ",
+      "द्वितीय",
+      "प्रथम",
+      "तृतीय"
+    ],
+    "options_en": [
+      "Fourth",
+      "Second",
+      "First",
+      "Third"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से मध्य प्रदेश की कौन-सी नदी तीन राज्यों में प्रवाहित होती है ?",
+    "question_en": "Which of the following rivers of Madhya Pradesh flows in three states?",
+    "options_hi": [
+      "केन",
+      "सोनार",
+      "माही",
+      "बेतवा"
+    ],
+    "options_en": [
+      "Ken",
+      "Sonar",
+      "Mahi",
+      "Betwa"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सी विशेषता मध्य प्रदेश की काली मिट्टी के संदर्भ में सही नहीं है ?",
+    "question_en": "Which of the following characteristics is not correct in reference to the black soil of Madhya Pradesh?",
+    "options_hi": [
+      "काली मिट्टी को कपास की मिट्टी के रूप में भी जाना जाता है ।",
+      "इसमें नमी धारण करने की क्षमता अधिक होती है।",
+      "काली मिट्टी में रेत की मात्रा अधिक होती है।",
+      "इसकी संरचना गांठदार लेकिन कभी-कभी भुरभुरी होती है।"
+    ],
+    "options_en": [
+      "Black soil is also known as cotton soil.",
+      "Black soil is highly retentive of moisture.",
+      "Black soil has high sand content.",
+      "Its structure is cloddish but occasionally friable."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "पूर्णा नदी निम्नलिखित में से किसकी सहायक नदी है?",
+    "question_en": "Purna river is a tributary of which of the following rivers?",
+    "options_hi": [
+      "नर्मदा",
+      "ताप्ती",
+      "सोनार",
+      "धसान"
+    ],
+    "options_en": [
+      "Narmada",
+      "Tapti",
+      "Sonar",
+      "Dhasan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "बीजागढ़ की पहाड़ी निम्नलिखित में से किस पर्वत श्रेणी में स्थित है ?",
+    "question_en": "Bijagarh hill is situated in which out of the following mountain ranges?",
+    "options_hi": [
+      "सतपुड़ा श्रेणी",
+      "विन्ध्याचल श्रेणी",
+      "कैमूर श्रेणी",
+      "महादेव श्रेणी"
+    ],
+    "options_en": [
+      "Satpura range",
+      "Vindhyachal range",
+      "Kaimur range",
+      "Mahadeo range"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "मध्य प्रदेश की जलवायु के संदर्भ में निम्नलिखित में से कौन-सा कथन सही नहीं है ?",
+    "question_en": "Which of the following statements is not correct regarding the climate of Madhya Pradesh?",
+    "options_hi": [
+      "मध्य प्रदेश की जलवायु उष्णकटिबंधीय है ।",
+      "यह राज्य मानसूनी जलवायु के अन्तर्गत आता है ।",
+      "राज्य के दक्षिण भाग में शीतोष्ण कटिबंधीय जलवायु पाई जाती है ।",
+      "कर्क रेखा इसके मध्य भाग से निकलती है ।"
+    ],
+    "options_en": [
+      "The climate of Madhya Pradesh is tropical.",
+      "The state comes under the monsoon climate.",
+      "Temperate climate is found in the southern part of the state.",
+      "The Tropic of Cancer passes through its central part."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "मध्य प्रदेश में किस प्रकार के वन नहीं पाए जाते हैं ?",
+    "question_en": "Which type of forests are not found in Madhya Pradesh?",
+    "options_hi": [
+      "उष्णकटिबंधीय आर्द्र पतझड़ वन",
+      "उप-आर्द्र पहाड़ी वन",
+      "कांटेदार वन",
+      "अल्पाइन वन"
+    ],
+    "options_en": [
+      "Tropical wet deciduous forests",
+      "Sub-humid hilly forests",
+      "Thorny forests",
+      "Alpine forests"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "निम्नलिखित में से कौन-सा थर्मल पावर स्टेशन अनूपपुर जिले के चचाई में स्थित है ?",
+    "question_en": "Which of the following thermal power stations is situated at Chachai of Anuppur district?",
+    "options_hi": [
+      "सतपुड़ा पावर स्टेशन",
+      "अमरकंटक पावर स्टेशन",
+      "बाणसागर पावर स्टेशन",
+      "इनमें से कोई नहीं"
+    ],
+    "options_en": [
+      "Satpura power station",
+      "Amarkantak power station",
+      "Bansagar power station",
+      "None of the above"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "बुनियादी सड़क सांख्यिकी वर्ष 2018-19 के अनुसार मध्य प्रदेश के सड़क मार्गों के संबंध में निम्नलिखित में से कौन-सा कथन सही नहीं है ?",
+    "question_en": "Which of the following statements is not correct regarding the roadways of Madhya Pradesh according to Basic Road Statistics 2018-19?",
+    "options_hi": [
+      "राष्ट्रीय राजमार्ग की लम्बाई 8,000 कि.मी. से अधिक है।",
+      "राज्य राजमार्ग की लम्बाई 11,000 कि.मी. से अधिक है।",
+      "जिला सड़क मार्ग की लम्बाई 50,000 कि.मी. से अधिक है ।",
+      "सड़क घनत्व में यह राज्य देश में प्रथम स्थान पर है।"
+    ],
+    "options_en": [
+      "The length of the National Highways is more than 8,000 kms.",
+      "The length of the State Highways is more than 11,000 kms.",
+      "The length of the District roads is more than 50,000 kms.",
+      "This State ranks first in the country in road density."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "वर्ष 2020-21 में मध्य प्रदेश में कपास उत्पादन में निम्नलिखित में से कौन-सा जिला प्रथम स्थान पर था ?",
+    "question_en": "In the year 2020-21, which of the following districts holds the first position in the production of cotton in Madhya Pradesh?",
+    "options_hi": [
+      "दमोह",
+      "खरगौन",
+      "मंडला",
+      "पन्ना"
+    ],
+    "options_en": [
+      "Damoh",
+      "Khargone",
+      "Mandla",
+      "Panna"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "राष्ट्रपति के चुनाव के लिए निर्वाचक मंडल में कौन-से सदस्य शामिल होते हैं ?",
+    "question_en": "The Electoral College for the election of the President consists of:",
+    "options_hi": [
+      "संसद के दोनों सदनों के सदस्य",
+      "संसद के दोनों सदनों और राज्य विधान सभाओं के सदस्य",
+      "संसद के दोनों सदनों के निर्वाचित सदस्य और राज्य विधान सभाओं के निर्वाचित सदस्य",
+      "इनमें से कोई नहीं"
+    ],
+    "options_en": [
+      "Members of both houses of Parliament",
+      "Members of both houses of Parliament and State Assemblies",
+      "Elected members of both houses of Parliament and elected members of State Assemblies",
+      "None of the above"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "राज्य के नीति निर्देशक तत्त्वों की व्याख्या भारतीय संविधान के पार्ट IV-क में की गई है। यह व्यवस्था किस देश के संविधान से ली गई है ?",
+    "question_en": "The Directive Principles of State Policy are explained in Part IV-A of the Indian Constitution. This system has been taken from the Constitution of which country?",
+    "options_hi": [
+      "ब्रिटेन",
+      "दक्षिण अफ्रीका",
+      "सं.रा. अमेरिका",
+      "आयरलैण्ड"
+    ],
+    "options_en": [
+      "Britain",
+      "South Africa",
+      "U.S.A.",
+      "Ireland"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "संसद का निर्माण निम्नलिखित में से किनके द्वारा होता है ?",
+    "question_en": "The Parliament is formed by which of the following?",
+    "options_hi": [
+      "राज्य सभा और लोक सभा",
+      "लोक सभा और राष्ट्रपति",
+      "लोक सभा, राज्य सभा और राष्ट्रपति",
+      "प्रधान मंत्री, लोक सभा और राज्य सभा"
+    ],
+    "options_en": [
+      "Rajya Sabha and Lok Sabha",
+      "Lok Sabha and President",
+      "Lok Sabha, Rajya Sabha and President",
+      "Prime Minister, Lok Sabha and Rajya Sabha"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "नाबार्ड की स्थापना कब की गई थी ?",
+    "question_en": "When was the NABARD established?",
+    "options_hi": [
+      "15 अगस्त 1947",
+      "1 अप्रैल 1951",
+      "12 जुलाई 1982",
+      "26 जनवरी 1950"
+    ],
+    "options_en": [
+      "15th August, 1947",
+      "1st April, 1951",
+      "12th July, 1982",
+      "26th January, 1950"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "भारतीय लघु उद्योग विकास बैंक (SIDBI), की स्थापना कब हुई थी ?",
+    "question_en": "When was the Small Industries Development Bank of India (SIDBI) established?",
+    "options_hi": [
+      "अप्रैल 1990",
+      "जनवरी 1950",
+      "अगस्त 1995",
+      "मई 2005"
+    ],
+    "options_en": [
+      "April, 1990",
+      "January, 1950",
+      "August, 1995",
+      "May, 2005"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "1980 में भारत में कितने बैंकों का राष्ट्रीयकरण किया गया था ?",
+    "question_en": "How many banks were nationalized in India in 1980?",
+    "options_hi": [
+      "4",
+      "6",
+      "14",
+      "20"
+    ],
+    "options_en": [
+      "4",
+      "6",
+      "14",
+      "20"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "शिक्षा का अधिकार किस संविधान संशोधन द्वारा मौलिक अधिकार में शामिल किया गया ?",
+    "question_en": "Through which Amendment of the Constitution has the Right to Education became a Fundamental Right?",
+    "options_hi": [
+      "पहला संविधान संशोधन",
+      "बयालीसवाँ संविधान संशोधन",
+      "चवालीसवाँ संविधान संशोधन",
+      "छियासीवाँ संविधान संशोधन"
+    ],
+    "options_en": [
+      "First Constitutional Amendment",
+      "Forty-second Constitutional Amendment",
+      "Forty-fourth Constitutional Amendment",
+      "Eighty-sixth Constitutional Amendment"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "अनुच्छेद 51-क मौलिक कर्तव्य की व्याख्या करता है । फिलहाल कितने मौलिक कर्तव्यों का उल्लेख है ?",
+    "question_en": "Article 51-A deals with Fundamental Duties. Currently how many Fundamental Duties are mentioned?",
+    "options_hi": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "किस संविधान संशोधन के द्वारा प्रस्तावना में 'समाजवादी' शब्द जोड़ा गया था ?",
+    "question_en": "By which Constitutional Amendment was the term 'Socialist' included in the Preamble?",
+    "options_hi": [
+      "पहला संविधान संशोधन",
+      "दूसरा संविधान संशोधन",
+      "बयालीसवाँ संविधान संशोधन",
+      "चवालीसवाँ संविधान संशोधन"
+    ],
+    "options_en": [
+      "First Constitutional Amendment",
+      "Second Constitutional Amendment",
+      "Forty-second Constitutional Amendment",
+      "Forty-fourth Constitutional Amendment"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "संविधान सभा का निर्माण किस योजना के तहत किया गया था ?",
+    "question_en": "Through which plan was the Constituent Assembly created?",
+    "options_hi": [
+      "क्रिप्स मिशन योजना",
+      "कैबिनेट मिशन योजना",
+      "साइमन कमीशन",
+      "इनमें से कोई नहीं"
+    ],
+    "options_en": [
+      "Cripps Mission Plan",
+      "Cabinet Mission Plan",
+      "Simon Commission",
+      "None of the above"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "भीमा नायक का संबंध किस रियासत से था ?",
+    "question_en": "Bhima Nayak was related to which Princely State?",
+    "options_hi": [
+      "मंडला",
+      "बड़वानी",
+      "किशनगढ़",
+      "मुड़ियादो"
+    ],
+    "options_en": [
+      "Mandla",
+      "Barwani",
+      "Kishangarh",
+      "Mudiyado"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "जनजाति नेता सीताराम कंवर और रघुनाथ सिंह मंडलोई भिलाला अंग्रेज़ विरोधी क्रांति में कब शामिल हुए थे ?",
+    "question_en": "When did tribal leaders, Sitaram Kanwar and Raghunath Singh Mandloi Bhilala join the Anti-British Revolution?",
+    "options_hi": [
+      "1842 ई.",
+      "1857 ई.",
+      "1927 ई.",
+      "1942 ई."
+    ],
+    "options_en": [
+      "1842 A.D.",
+      "1857 A.D.",
+      "1927 A.D.",
+      "1942 A.D."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_hi": "सागर के आंचलिक क्षेत्रों में दीपावली के अवसर पर कौन-सा लोकनृत्य प्रचलित है ?",
+    "question_en": "Which folk dance is prevalent on the occasion of Deepawali in the regional areas of Sagar?",
+    "options_hi": [
+      "मौनी नृत्य",
+      "मांडल्या नृत्य",
+      "फेफरिया नृत्य",
+      "डंडा नृत्य"
+    ],
+    "options_en": [
+      "Moni Dance",
+      "Mandalya Dance",
+      "Fefariya Dance",
+      "Danda Dance"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "चित्रकूट धार्मिक स्थल को किस एक अन्य नाम से भी पहचाना गया ?",
+    "question_en": "Which other name was the religious place Chitrakoot also recognized by?",
+    "options_hi": [
+      "जगतपुरी",
+      "रामसिया",
+      "ब्रह्मपुरी",
+      "काकणाय"
+    ],
+    "options_en": [
+      "Jagatpuri",
+      "Ramsiya",
+      "Brahmpuri",
+      "Kakanaya"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'मुकुल' किसकी प्रसिद्ध साहित्यिक रचना है ?",
+    "question_en": "Whose famous literary work is 'Mukul'?",
+    "options_hi": [
+      "माखनलाल चतुर्वेदी",
+      "भवानी प्रसाद मिश्रा",
+      "मुकुटधर पाण्डेय",
+      "सुभद्रा कुमारी चौहान"
+    ],
+    "options_en": [
+      "Makhanlal Chaturvedi",
+      "Bhavani Prasad Mishra",
+      "Mukutdhar Pandey",
+      "Subhadra Kumari Chauhan"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "दीवार पर मिट्टी से बनाई जाने वाली 'नोहडोरा' अलंकरण किस जनजाति की विशेषता है ?",
+    "question_en": "'Nohdora' ornamentation made of clay on the wall is the speciality of which tribe?",
+    "options_hi": [
+      "भील",
+      "कोरकू",
+      "सहरिया",
+      "गौंड"
+    ],
+    "options_en": [
+      "Bhil",
+      "Korku",
+      "Saharia",
+      "Gond"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question_hi": "ऐतिहासिक मतंगेश्वर मंदिर कहाँ स्थित है ?",
+    "question_en": "Where is the historical Matangeshwar temple situated?",
+    "options_hi": [
+      "उज्जैन",
+      "महेश्वर",
+      "खजुराहो",
+      "विदिशा"
+    ],
+    "options_en": [
+      "Ujjain",
+      "Maheshwar",
+      "Khajuraho",
+      "Vidisha"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "'रामचंद्रिका' किसकी प्रसिद्ध रचना है ?",
+    "question_en": "Whose famous work is 'Ramchandrika'?",
+    "options_hi": [
+      "पद्माकर",
+      "भूषण",
+      "केशवदास",
+      "भवभूति"
+    ],
+    "options_en": [
+      "Padmakar",
+      "Bhushan",
+      "Keshavdas",
+      "Bhavabhuti"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question_hi": "बालकृष्ण शर्मा 'नवीन' ने दो काव्य - 'प्राणार्पण' तथा 'आत्मोसर्ग' किस पर लिखे ?",
+    "question_en": "On whom did Balkrishna Sharma 'Naveen' write two kavyas 'Pranarpan' and 'Atmosarga'?",
+    "options_hi": [
+      "गणेश शंकर विद्यार्थी",
+      "जय शंकर प्रसाद",
+      "प्रभाकर माचवे",
+      "माखनलाल चतुर्वेदी"
+    ],
+    "options_en": [
+      "Ganesh Shankar Vidyarthi",
+      "Jai Shankar Prasad",
+      "Prabhakar Machave",
+      "Makhanlal Chaturvedi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_hi": "स्वतंत्रता आंदोलन में निवाड़ी जिले की थौना-लुहारी गोलीकांड की घटना कब घटित हुई थी ?",
+    "question_en": "When did the Thona-Luhari firing incident of Niwari district take place in the Freedom Movement?",
+    "options_hi": [
+      "1922",
+      "1931",
+      "1939",
+      "1942"
+    ],
+    "options_en": [
+      "1922",
+      "1931",
+      "1939",
+      "1942"
+    ],
+    "correct_option_index": 2
+  }
+]

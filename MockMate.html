@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MockMate CBT Examination</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="/style-mockmate.css">
+
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-sm">
+        <div class="container-fluid">
+
+            <div class="d-flex align-items-center">
+                <img src="/static/user-icon.png" class="user-icon me-2">
+                <div class="text-white">
+                    <div class="fw-bold">NAME : USER</div>
+                    <small>Roll No : 0801XX2211XX</small>
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center gap-3">
+                <button id="lang-toggle-btn" class="btn btn-outline-light btn-sm">English</button>
+                <div class="exam-timer bg-light text-primary fw-bold px-3 py-2 rounded">
+                    REMAINING TIME : <span id="timer">--:--</span>
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+    <div class="header-bottom text-center py-2 text-white">
+        Madhya Pradesh Public Service Commission – Computer Based Test
+    </div>
+</header>
+
+<div class="container-fluid mt-3">
+    <div class="row">
+
+        <!-- QUESTION PANEL -->
+        <div class="col-lg-8 mb-3">
+            <div class="card h-100">
+                <div class="card-body question-animate">
+
+                    <h5 id="question-number">Question No 1</h5>
+                    <div id="question-text" class="fs-5 my-3"></div>
+
+                    <div id="options-container"></div>
+
+                    <div class="action-buttons border-top pt-3 mt-4 d-flex flex-wrap gap-2">
+                        <button id="save-next" class="btn btn-success">SAVE & NEXT</button>
+                        <button id="save-mark-review" class="btn btn-primary">SAVE & MARK FOR REVIEW</button>
+                        <button id="mark-review-next" class="btn btn-info">MARK FOR REVIEW & NEXT</button>
+                        <button id="clear" class="btn btn-warning">CLEAR</button>
+                    </div>
+
+                    <div class="nav-buttons d-flex justify-content-between mt-4">
+                        <div>
+                            <button id="back" class="btn btn-secondary">&lt;&lt; BACK</button>
+                            <button id="next" class="btn btn-secondary ms-2">NEXT &gt;&gt;</button>
+                        </div>
+                        <button id="submit" class="btn btn-danger btn-lg">SUBMIT</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- RIGHT PANEL -->
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100">
+                <div class="card-body">
+
+                    <h5 class="card-title">Status Legend</h5>
+
+                    <div class="legend small">
+                        <div><span class="legend-box not-visited"></span> Not Visited</div>
+                        <div><span class="legend-box not-answered"></span> Not Answered</div>
+                        <div><span class="legend-box answered"></span> Answered</div>
+                        <div><span class="legend-box marked-review"></span> Marked for Review</div>
+                        <div><span class="legend-box answered-marked-review"></span> Answered & Marked</div>
+                    </div>
+
+                    <h5 class="card-title mt-4">Question Palette</h5>
+                    <div id="question-palette" class="d-flex flex-wrap gap-2"></div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- FOOTER -->
+<footer class="exam-footer mt-4">
+    <div class="container-fluid">
+        <div class="row text-center text-md-start">
+
+            <div class="col-md-4 mb-3">
+                <h6 class="footer-title">About MockMate</h6>
+                <p class="footer-text">
+                    MockMate is a CBT-based exam platform designed to simulate
+                    real MPPSC & competitive examinations with accuracy.
+                </p>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <h6 class="footer-title">Exam Guidelines</h6>
+                <ul class="footer-list">
+                    <li>No tab switching allowed</li>
+                    <li>No copy / paste permitted</li>
+                    <li>Auto submit on violations</li>
+                    <li>Submit before time ends</li>
+                </ul>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <h6 class="footer-title">System Status</h6>
+                <p class="footer-text">
+                    Exam Mode: <span class="status-live">LIVE</span><br>
+                    Internet: Stable<br>
+                    Version: CBT v1.0
+                </p>
+            </div>
+
+        </div>
+
+        <hr class="footer-divider">
+
+        <div class="text-center footer-bottom">
+            © 2026 MockMate CBT Platform | Designed for Competitive Exams
+        </div>
+    </div>
+</footer>
+<script src="/script-mockmate.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
